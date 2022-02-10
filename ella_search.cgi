@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w 
+#!/usr/bin/perl -w
 
 ######################################################################
 #
@@ -6,6 +6,7 @@
 #
 #  Ver. 1.00 by Ella Rice & Tom King
 #  Ver. 2.00 by Mike Riley (mcriley@supanet.com)
+#  Ver. 2.01 MR 30/6/05 Bug in health keyword files
 #  
 ######################################################################
 
@@ -371,26 +372,26 @@ print STDERR Dumper(\@ref_array);
 sub show_full_record 
 {
   my @order_of_headings = qw(	aspect_of_health
-								aspect_of_regeneration
-								author
-								reference_no
-								study_details
-								study_design_and_sample
-								outcomes_rel_unemployment
-								field_4
-								process
-								process_used
-								measure_social_cap
-								health_outcomes
-								health_outcome_effects
-								key_issues_rel_he
-								causal_pathways
-								ref_long_study
-								mediating_factors
-								conclusion
-								notes);
+  	aspect_of_regeneration
+  	author
+  	reference_no
+  	study_details
+  	study_design_and_sample
+  	outcomes_rel_unemployment
+  	field_4
+  	process
+  	process_used
+  	measure_social_cap
+  	health_outcomes
+  	health_outcome_effects
+  	key_issues_rel_he
+  	causal_pathways
+  	ref_long_study
+  	mediating_factors
+  	conclusion
+  	notes);
 
-  my %key_transform = 
+  my %key_transform =
   (
     "author" => "Author",
     "aspect_of_regeneration" => "Aspect of Regeneration", 
@@ -768,7 +769,7 @@ sub display_record
 	my $healthdoc = $xshealth->XMLin($file);
 
 	my $doc2 = XMLin('data/all_xml_data.xml');
-	my $healthdoc2 = XMLin('data/thealthKw.xml');
+	my $healthdoc2 = XMLin('data/healthKw.xml');
  
 
 	my $newdoc = XML::Simple->new( noattr=>0, rootname=>"records", 
@@ -885,9 +886,9 @@ sub save_record
 
 	# UPDATE KEYWORD FILES
 
-	#Start with just thealthKw.xml
+	#Start with just healthKw.xml
 
-	#my $doc3 = XMLin('data/thealthKw.xml');
+	#my $doc3 = XMLin('data/healthKw.xml');
 	
 	$template->param(hia_info => $userinfo);
 	print $template->output();
