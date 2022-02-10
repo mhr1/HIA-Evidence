@@ -1,0 +1,365 @@
+<records>
+<health_keywords key="1">
+	<keyword>mortality</keyword>
+</health_keywords>
+<health_keywords key="2">
+	<keyword>mortality rate</keyword>
+</health_keywords>
+<health_keywords key="3">
+	<keyword>suicide</keyword>
+</health_keywords>
+<health_keywords key="4">
+	<keyword>poisoning</keyword>
+</health_keywords>
+<health_keywords key="5">
+	<keyword>cardiovascular</keyword>
+</health_keywords>
+<health_keywords key="6">
+	<keyword>psychological morbidity</keyword>
+</health_keywords>
+<health_keywords key="7">
+	<keyword>psychological health</keyword>
+</health_keywords>
+<health_keywords key="8">
+	<keyword>psychosocial health</keyword>
+</health_keywords>
+<health_keywords key="9">
+	<keyword>psychiatric admissions</keyword>
+</health_keywords>
+<health_keywords key="10">
+	<keyword>mental health</keyword>
+</health_keywords>
+<health_keywords key="11">
+	<keyword>heart disease</keyword>
+</health_keywords>
+<health_keywords key="12">
+	<keyword>psychiatric disorder</keyword>
+</health_keywords>
+<health_keywords key="13">
+	<keyword>stress</keyword>
+</health_keywords>
+<health_keywords key="14">
+	<keyword>anxiety</keyword>
+</health_keywords>
+<health_keywords key="15">
+	<keyword>coronary heart disease</keyword>
+</health_keywords>
+<health_keywords key="16">
+	<keyword>sleep disturbance</keyword>
+</health_keywords>
+<health_keywords key="17">
+	<keyword>sickness absense</keyword>
+</health_keywords>
+<health_keywords key="18">
+	<keyword>psychological distress</keyword>
+</health_keywords>
+<health_keywords key="19">
+	<keyword>physical health</keyword>
+</health_keywords>
+<health_keywords key="20">
+	<keyword>physiological health</keyword>
+</health_keywords>
+<health_keywords key="21">
+	<keyword>musculoskeletal</keyword>
+</health_keywords>
+<health_keywords key="22">
+	<keyword>seurm cholestrol</keyword>
+</health_keywords>
+<health_keywords key="23">
+	<keyword>self-esteem</keyword>
+</health_keywords>
+<health_keywords key="24">
+	<keyword>chest related </keyword>
+</health_keywords>
+<health_keywords key="25">
+	<keyword>breathing problems</keyword>
+</health_keywords>
+<health_keywords key="26">
+	<keyword>gastric problems</keyword>
+</health_keywords>
+<health_keywords key="27">
+	<keyword>injuries</keyword>
+</health_keywords>
+<health_keywords key="28">
+	<keyword>aches</keyword>
+</health_keywords>
+<health_keywords key="29">
+	<keyword>pains</keyword>
+</health_keywords>
+<health_keywords key="30">
+	<keyword>sore throat</keyword>
+</health_keywords>
+<health_keywords key="31">
+	<keyword>tiredness</keyword>
+</health_keywords>
+<health_keywords key="32">
+	<keyword>temper tantrums</keyword>
+</health_keywords>
+<health_keywords key="33">
+	<keyword>coughs</keyword>
+</health_keywords>
+<health_keywords key="34">
+	<keyword>metabolic disorders</keyword>
+</health_keywords>
+<health_keywords key="35">
+	<keyword>morbidity</keyword>
+</health_keywords>
+<health_keywords key="36">
+	<keyword>health behaviours</keyword>
+</health_keywords>
+<health_keywords key="37">
+	<keyword>alcohol consumption</keyword>
+</health_keywords>
+<health_keywords key="38">
+	<keyword>drug use</keyword>
+</health_keywords>
+<health_keywords key="39">
+	<keyword>cancer</keyword>
+</health_keywords>
+<health_keywords key="40">
+	<keyword>circulatory diseases</keyword>
+</health_keywords>
+<health_keywords key="41">
+	<keyword>respiratory diseases</keyword>
+</health_keywords>
+<health_keywords key="42">
+	<keyword>accidents</keyword>
+</health_keywords>
+<health_keywords key="43">
+	<keyword>perceived health problems</keyword>
+</health_keywords>
+<health_keywords key="44">
+	<keyword>skin problems</keyword>
+</health_keywords>
+<health_keywords key="45">
+	<keyword>breathing </keyword>
+</health_keywords>
+<health_keywords key="46">
+	<keyword>lung function</keyword>
+</health_keywords>
+<health_keywords key="47">
+	<keyword>chronic obstructive lung disease</keyword>
+</health_keywords>
+<health_keywords key="48">
+	<keyword>road accidents</keyword>
+</health_keywords>
+<health_keywords key="49">
+	<keyword>obesity</keyword>
+</health_keywords>
+<health_keywords key="50">
+	<keyword>hospital admission rates</keyword>
+</health_keywords>
+<health_keywords key="51">
+	<keyword>physical activity</keyword>
+</health_keywords>
+<health_keywords key="52">
+	<keyword>exercise</keyword>
+</health_keywords>
+<health_keywords key="53">
+	<keyword>coronary artery disease</keyword>
+</health_keywords>
+<health_keywords key="54">
+	<keyword>systematic hypertension</keyword>
+</health_keywords>
+<health_keywords key="55">
+	<keyword>emotional disorders</keyword>
+</health_keywords>
+<health_keywords key="56">
+	<keyword>osteoporosis</keyword>
+</health_keywords>
+<health_keywords key="57">
+	<keyword>child development</keyword>
+</health_keywords>
+<health_keywords key="58">
+	<keyword>pregnancy</keyword>
+</health_keywords>
+<health_keywords key="59">
+	<keyword>poor eating</keyword>
+</health_keywords>
+<health_keywords key="60">
+	<keyword>overactivity</keyword>
+</health_keywords>
+<health_keywords key="61">
+	<keyword>bed wetting</keyword>
+</health_keywords>
+<health_keywords key="62">
+	<keyword>agression</keyword>
+</health_keywords>
+<health_keywords key="63">
+	<keyword>infectious diseases</keyword>
+</health_keywords>
+<health_keywords key="64">
+	<keyword>immunisation rates</keyword>
+</health_keywords>
+<health_keywords key="65">
+	<keyword>ageing</keyword>
+</health_keywords>
+<health_keywords key="66">
+	<keyword>blood pressure</keyword>
+</health_keywords>
+<health_keywords key="67">
+	<keyword>loss of control</keyword>
+</health_keywords>
+<health_keywords key="68">
+	<keyword>chronic illness</keyword>
+</health_keywords>
+<health_keywords key="69">
+	<keyword>health service use</keyword>
+</health_keywords>
+<health_keywords key="70">
+	<keyword>gp registration</keyword>
+</health_keywords>
+<health_keywords key="71">
+	<keyword>gastrointestinal problems</keyword>
+</health_keywords>
+<health_keywords key="72">
+	<keyword>healthcare</keyword>
+</health_keywords>
+<health_keywords key="73">
+	<keyword>health problems</keyword>
+</health_keywords>
+<health_keywords key="74">
+	<keyword>chest conditions</keyword>
+</health_keywords>
+<health_keywords key="75">
+	<keyword>headaches</keyword>
+</health_keywords>
+<health_keywords key="76">
+	<keyword>musculoskeletal problems</keyword>
+</health_keywords>
+<health_keywords key="77">
+	<keyword>eye problems</keyword>
+</health_keywords>
+<health_keywords key="78">
+	<keyword>arthritis</keyword>
+</health_keywords>
+<health_keywords key="79">
+	<keyword>bronchitis</keyword>
+</health_keywords>
+<health_keywords key="80">
+	<keyword>cellulitis</keyword>
+</health_keywords>
+<health_keywords key="81">
+	<keyword>chronic obstrcutive airway diseases</keyword>
+</health_keywords>
+<health_keywords key="82">
+	<keyword>epilepsy</keyword>
+</health_keywords>
+<health_keywords key="83">
+	<keyword>infestation</keyword>
+</health_keywords>
+<health_keywords key="84">
+	<keyword>dental health</keyword>
+</health_keywords>
+<health_keywords key="85">
+	<keyword>skin diseases</keyword>
+</health_keywords>
+<health_keywords key="86">
+	<keyword>skin infections</keyword>
+</health_keywords>
+<health_keywords key="87">
+	<keyword>trauma</keyword>
+</health_keywords>
+<health_keywords key="88">
+	<keyword>tuberculosis</keyword>
+</health_keywords>
+<health_keywords key="89">
+	<keyword>violence</keyword>
+</health_keywords>
+<health_keywords key="90">
+	<keyword>rape</keyword>
+</health_keywords>
+<health_keywords key="91">
+	<keyword>hiv infection</keyword>
+</health_keywords>
+<health_keywords key="92">
+	<keyword>gastroenteritis</keyword>
+</health_keywords>
+<health_keywords key="93">
+	<keyword>hepatitis</keyword>
+</health_keywords>
+<health_keywords key="94">
+	<keyword>sexually transmitted diseases</keyword>
+</health_keywords>
+<health_keywords key="95">
+	<keyword>stomach</keyword>
+</health_keywords>
+<health_keywords key="96">
+	<keyword>asthma</keyword>
+</health_keywords>
+<health_keywords key="97">
+	<keyword>rhinitis</keyword>
+</health_keywords>
+<health_keywords key="98">
+	<keyword>alveolitis</keyword>
+</health_keywords>
+<health_keywords key="99">
+	<keyword>emotional strain</keyword>
+</health_keywords>
+<health_keywords key="100">
+	<keyword>illness</keyword>
+</health_keywords>
+<health_keywords key="101">
+	<keyword>fatigue</keyword>
+</health_keywords>
+<health_keywords key="102">
+	<keyword>nervousness</keyword>
+</health_keywords>
+<health_keywords key="103">
+	<keyword>wheezing</keyword>
+</health_keywords>
+<health_keywords key="104">
+	<keyword>chesty coughs</keyword>
+</health_keywords>
+<health_keywords key="105">
+	<keyword>social status</keyword>
+</health_keywords>
+<health_keywords key="106">
+	<keyword>respiratory complaints</keyword>
+</health_keywords>
+<health_keywords key="107">
+	<keyword>chronic chest conditions</keyword>
+</health_keywords>
+<health_keywords key="108">
+	<keyword>well being</keyword>
+</health_keywords>
+<health_keywords key="109">
+	<keyword>self-reported health</keyword>
+</health_keywords>
+<health_keywords key="110">
+	<keyword>health</keyword>
+</health_keywords>
+<health_keywords key="111">
+	<keyword>smoking</keyword>
+</health_keywords>
+<health_keywords key="112">
+	<keyword>functional health status</keyword>
+</health_keywords>
+<health_keywords key="113">
+	<keyword>health risks</keyword>
+</health_keywords>
+<health_keywords key="114">
+	<keyword>malignant neoplasm</keyword>
+</health_keywords>
+<health_keywords key="115">
+	<keyword>cerebrovascular disease</keyword>
+</health_keywords>
+<health_keywords key="116">
+	<keyword>infant</keyword>
+</health_keywords>
+<health_keywords key="117">
+	<keyword>happiness</keyword>
+</health_keywords>
+<health_keywords key="118">
+	<keyword>health selection</keyword>
+</health_keywords>
+<health_keywords key="119">
+	<keyword>health inequalities</keyword>
+</health_keywords>
+<health_keywords key="120">
+	<keyword>life expectancy</keyword>
+</health_keywords>
+<health_keywords key="999">
+	<keyword>exclusion</keyword>
+</health_keywords>
+</records>

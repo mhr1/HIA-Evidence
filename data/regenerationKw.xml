@@ -1,0 +1,344 @@
+<records>
+<regeneration_keywords key="1">
+	<keyword>exclusion</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="2">
+	<keyword>unemployment</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="3">
+	<keyword>redundancy</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="4">
+	<keyword>unemployment Rate</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="5">
+	<keyword>unemployment rate [national]</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="6">
+	<keyword>long-term unemployment</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="7">
+	<keyword>re-employment</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="8">
+	<keyword>reintegration</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="9">
+	<keyword>employment status</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="10">
+	<keyword>employment quality</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="11">
+	<keyword>exit from unemployment</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="12">
+	<keyword>employment rate</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="13">
+	<keyword>work conditions</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="14">
+	<keyword>psychosocial working conditions </keyword>
+</regeneration_keywords>
+<regeneration_keywords key="15">
+	<keyword>job demands</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="16">
+	<keyword>job control</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="17">
+	<keyword>effort reward imbalance</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="18">
+	<keyword>social support</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="19">
+	<keyword>temporary employment</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="20">
+	<keyword>secure re-mployment</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="21">
+	<keyword>insecure re-employment</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="22">
+	<keyword>job changes</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="23">
+	<keyword>job insecurity</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="24">
+	<keyword>housing renewal</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="25">
+	<keyword>central heating</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="26">
+	<keyword>doors</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="27">
+	<keyword>windows</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="28">
+	<keyword>kitchen</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="29">
+	<keyword>bathroom</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="30">
+	<keyword>redecoration</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="31">
+	<keyword>fencing</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="32">
+	<keyword>traffic calming</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="33">
+	<keyword>play facilities</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="34">
+	<keyword>homelessness</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="35">
+	<keyword>temporary accomodation</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="36">
+	<keyword>single people</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="37">
+	<keyword>women</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="38">
+	<keyword>young people</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="39">
+	<keyword>rough sleepers</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="40">
+	<keyword>ethnic minorities</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="41">
+	<keyword>families</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="42">
+	<keyword>the aged</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="43">
+	<keyword>refugees</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="44">
+	<keyword>poor housing</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="45">
+	<keyword>rehousing</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="46">
+	<keyword>temporary accomodation</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="47">
+	<keyword>squats</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="48">
+	<keyword>mould</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="49">
+	<keyword>damp</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="50">
+	<keyword>cold</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="51">
+	<keyword>housing </keyword>
+</regeneration_keywords>
+<regeneration_keywords key="52">
+	<keyword>tenure</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="53">
+	<keyword>type</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="54">
+	<keyword>social inclusion</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="55">
+	<keyword>services </keyword>
+</regeneration_keywords>
+<regeneration_keywords key="56">
+	<keyword>access</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="57">
+	<keyword>improvement</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="58">
+	<keyword>fear of crime</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="59">
+	<keyword>installation of heating</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="60">
+	<keyword>transport</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="61">
+	<keyword>traffic</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="62">
+	<keyword>traffic exposure</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="63">
+	<keyword>traffic volume</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="64">
+	<keyword>traffic speed</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="65">
+	<keyword>curbside parking</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="66">
+	<keyword>traffic pollution</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="67">
+	<keyword>cycle use</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="68">
+	<keyword>traffic weight</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="69">
+	<keyword>traffic density</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="70">
+	<keyword>cold</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="71">
+	<keyword>housing quality</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="72">
+	<keyword>housing design</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="73">
+	<keyword>neighbourhood</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="74">
+	<keyword>repossession</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="75">
+	<keyword>travel patterns</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="76">
+	<keyword>social capital</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="77">
+	<keyword>trust</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="78">
+	<keyword>committent</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="79">
+	<keyword>social activities</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="80">
+	<keyword>civic participation</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="81">
+	<keyword>friendships</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="82">
+	<keyword>local relationships</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="83">
+	<keyword>sense of community</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="84">
+	<keyword>co-operation</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="85">
+	<keyword>co-ordination</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="86">
+	<keyword>social trust</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="87">
+	<keyword>civic trust</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="88">
+	<keyword>social networks</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="89">
+	<keyword>social ties</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="90">
+	<keyword>community ties</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="91">
+	<keyword>social contacts</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="92">
+	<keyword>social integration</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="93">
+	<keyword>civic involvement</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="94">
+	<keyword>religiosity</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="95">
+	<keyword>local identity</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="96">
+	<keyword>community cohesion</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="97">
+	<keyword>civic engagement</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="98">
+	<keyword>reciprocity</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="99">
+	<keyword>social relationships</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="100">
+	<keyword>domestic situation</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="101">
+	<keyword>human capital</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="102">
+	<keyword>cultural capital</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="103">
+	<keyword>social support</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="104">
+	<keyword>communities</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="105">
+	<keyword>families</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="106">
+	<keyword>interpersonal relationships</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="107">
+	<keyword>attitudes</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="108">
+	<keyword>beliefs</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="109">
+	<keyword>low pay</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="110">
+	<keyword>satisfaction</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="111">
+<keyword>calliope</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="112">
+<keyword>calliope music</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="113">
+<keyword>ungulates</keyword>
+</regeneration_keywords>
+<regeneration_keywords key="114">
+<keyword>HASH(0x972a2a8)</keyword>
+</regeneration_keywords>
+</records>

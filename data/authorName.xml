@@ -1,0 +1,863 @@
+<records>
+<author_keyword key="1">
+	<author>McCarthy ref:6</author>
+</author_keyword>
+<author_keyword key="2">
+	<author>McCarthy ref:6</author>
+</author_keyword>
+<author_keyword key="3">
+	<author>McCarthy ref:6</author>
+</author_keyword>
+<author_keyword key="4">
+	<author>McCarthy ref:6</author>
+</author_keyword>
+<author_keyword key="5">
+	<author>Roberts et al ref:7</author>
+</author_keyword>
+<author_keyword key="6">
+	<author>Roberts et al ref:8</author>
+</author_keyword>
+<author_keyword key="7">
+	<author>Boyes et al ref:9</author>
+</author_keyword>
+<author_keyword key="8">
+	<author>McMichael ref:10</author>
+</author_keyword>
+<author_keyword key="9">
+	<author>McMichael ref:10</author>
+</author_keyword>
+<author_keyword key="10">
+	<author>McMichael ref:10</author>
+</author_keyword>
+<author_keyword key="11">
+	<author>McMichael ref:10</author>
+</author_keyword>
+<author_keyword key="12">
+	<author>McMichael ref:10</author>
+</author_keyword>
+<author_keyword key="13">
+	<author>Pucher et al ref:12</author>
+</author_keyword>
+<author_keyword key="14">
+	<author>BMA ref:11</author>
+</author_keyword>
+<author_keyword key="15">
+	<author>Rivara et al ref:13</author>
+</author_keyword>
+<author_keyword key="16">
+	<author>Carlin et al ref:14</author>
+</author_keyword>
+<author_keyword key="17">
+	<author>Paluska and Schwenk ref:17</author>
+</author_keyword>
+<author_keyword key="18">
+	<author>Rowland et al ref:16</author>
+</author_keyword>
+<author_keyword key="19">
+	<author>Rowlands et al ref:19</author>
+</author_keyword>
+<author_keyword key="20">
+	<author>Sleap and Warburton ref:18</author>
+</author_keyword>
+<author_keyword key="21">
+	<author>Hillman et al ref:15</author>
+</author_keyword>
+<author_keyword key="22">
+	<author>Brenner ref:30</author>
+</author_keyword>
+<author_keyword key="23">
+	<author>Morrell et al ref:34</author>
+</author_keyword>
+<author_keyword key="24">
+	<author>Strandh ref:35</author>
+</author_keyword>
+<author_keyword key="25">
+	<author>Eyer ref:31</author>
+</author_keyword>
+<author_keyword key="26">
+	<author>Graetz ref:36</author>
+</author_keyword>
+<author_keyword key="27">
+	<author>Ritchie ref:37</author>
+</author_keyword>
+<author_keyword key="28">
+	<author>Bosma et al ref:38</author>
+</author_keyword>
+<author_keyword key="29">
+	<author>Bosma, Stansfeld et al ref:39</author>
+</author_keyword>
+<author_keyword key="30">
+	<author>Stansfeld, Fuhrer et al ref:29</author>
+</author_keyword>
+<author_keyword key="31">
+	<author>Vahtera et al ref:40</author>
+</author_keyword>
+<author_keyword key="32">
+	<author>Cobb ref:41</author>
+</author_keyword>
+<author_keyword key="33">
+	<author>Iversen and Sabroe ref:42</author>
+</author_keyword>
+<author_keyword key="34">
+	<author>Joelson and Wahlquist ref:43</author>
+</author_keyword>
+<author_keyword key="35">
+	<author>Mattiasson, Lindgarde et al ref:44</author>
+</author_keyword>
+<author_keyword key="36">
+	<author>Westin ref:45</author>
+</author_keyword>
+<author_keyword key="37">
+	<author>Beale and Nethercott ref:46</author>
+</author_keyword>
+<author_keyword key="38">
+	<author>Beale and Nethercott ref:47</author>
+</author_keyword>
+<author_keyword key="39">
+	<author>Glenn et al ref:48</author>
+</author_keyword>
+<author_keyword key="40">
+	<author>Halvorsen ref:49</author>
+</author_keyword>
+<author_keyword key="41">
+	<author>Westerlund, Theorell and Bergstrandouml;m ref:50</author>
+</author_keyword>
+<author_keyword key="42">
+	<author>Bolton and Oatley ref:51</author>
+</author_keyword>
+<author_keyword key="43">
+	<author>Hammer ref:52</author>
+</author_keyword>
+<author_keyword key="44">
+	<author>Hammer ref:54</author>
+</author_keyword>
+<author_keyword key="45">
+	<author>Martikainen ref:56</author>
+</author_keyword>
+<author_keyword key="46">
+	<author>Moser ref:57</author>
+</author_keyword>
+<author_keyword key="47">
+	<author>Frese and Mohr ref:58</author>
+</author_keyword>
+<author_keyword key="48">
+	<author>Bartley ref:24</author>
+</author_keyword>
+<author_keyword key="49">
+	<author>Wilkinson ref:25</author>
+</author_keyword>
+<author_keyword key="50">
+	<author>Schwefel ref:59</author>
+</author_keyword>
+<author_keyword key="51">
+	<author>Shortt ref:33</author>
+</author_keyword>
+<author_keyword key="52">
+	<author>Barnett ref:28</author>
+</author_keyword>
+<author_keyword key="53">
+	<author>Jin et al ref:60</author>
+</author_keyword>
+<author_keyword key="54">
+	<author>Bartley ref:24</author>
+</author_keyword>
+<author_keyword key="55">
+	<author>Bartley ref:24</author>
+</author_keyword>
+<author_keyword key="56">
+	<author>Acheson et al ref:23 (p45)</author>
+</author_keyword>
+<author_keyword key="57">
+	<author>Lawless et al ref:61 Nickell and Bell ref:62 Payne and Payne ref:63</author>
+</author_keyword>
+<author_keyword key="58">
+	<author>Bartley ref:24 Shortt ref:33</author>
+</author_keyword>
+<author_keyword key="59">
+	<author>Bethune ref:64</author>
+</author_keyword>
+<author_keyword key="60">
+	<author>Moser et al ref:65</author>
+</author_keyword>
+<author_keyword key="61">
+	<author>Moylan et al ref:66 White ref:67</author>
+</author_keyword>
+<author_keyword key="62">
+	<author>Daniel ref:68</author>
+</author_keyword>
+<author_keyword key="63">
+	<author>Piachaud ref:69</author>
+</author_keyword>
+<author_keyword key="64">
+	<author>Berthoud ref:70 White ref:71 Bradshaw ref:72</author>
+</author_keyword>
+<author_keyword key="65">
+	<author>Acheson et al ref:23 (p46)</author>
+</author_keyword>
+<author_keyword key="66">
+	<author>Montgomery et al ref:73</author>
+</author_keyword>
+<author_keyword key="67">
+	<author>Wadsworth ref:74</author>
+</author_keyword>
+<author_keyword key="68">
+	<author>Sly et al ref:75</author>
+</author_keyword>
+<author_keyword key="69">
+	<author>The Carnegie United Kingdom Trust ref:76</author>
+</author_keyword>
+<author_keyword key="70">
+	<author>Chatrick and Maclagan 77 Dolton et al 78 Lindley 79 Maclagan 80 Rolfe et al 81 Dennehy et al 82</author>
+</author_keyword>
+<author_keyword key="71">
+	<author>Ratner ref:83</author>
+</author_keyword>
+<author_keyword key="72">
+	<author>Acheson et al ref:23 (p45)</author>
+</author_keyword>
+<author_keyword key="73">
+	<author>Lawless et al ref:61 Nickell and Bell ref:62 Payne and Payne ref:63</author>
+</author_keyword>
+<author_keyword key="74">
+	<author>Bartley ref:24 Shortt ref:33</author>
+</author_keyword>
+<author_keyword key="75">
+	<author>Bethune ref:64</author>
+</author_keyword>
+<author_keyword key="76">
+	<author>Moser et al ref:65</author>
+</author_keyword>
+<author_keyword key="77">
+	<author>Moylan et al ref:66 White ref:67</author>
+</author_keyword>
+<author_keyword key="78">
+	<author>Daniel ref:68</author>
+</author_keyword>
+<author_keyword key="79">
+	<author>Piachaud ref:69</author>
+</author_keyword>
+<author_keyword key="80">
+	<author>Berthoud ref:70 White ref:71 Bradshaw ref:72</author>
+</author_keyword>
+<author_keyword key="81">
+	<author>Acheson et al ref:23 (p46)</author>
+</author_keyword>
+<author_keyword key="82">
+	<author>Montgomery et al ref:73</author>
+</author_keyword>
+<author_keyword key="83">
+	<author>Wadsworth ref:74</author>
+</author_keyword>
+<author_keyword key="84">
+	<author>Sly et al ref:75</author>
+</author_keyword>
+<author_keyword key="85">
+	<author>The Carnegie United Kingdom Trust ref:76</author>
+</author_keyword>
+<author_keyword key="86">
+	<author>Chatrick and Maclagan 77 Dolton et al 78 Lindley 79 Maclagan 80 Rolfe et al 81 Dennehy et al 82</author>
+</author_keyword>
+<author_keyword key="87">
+	<author>Ratner ref:83</author>
+</author_keyword>
+<author_keyword key="88">
+	<author>Bartley ref:24</author>
+</author_keyword>
+<author_keyword key="89">
+	<author>Wilkinson and Marmot ref:25</author>
+</author_keyword>
+<author_keyword key="90">
+	<author>Gregg et al ref:84, Martin ref:85, Pollert86 and Prescott-Clarke ref:87 in Acheson et al ref:23</author>
+</author_keyword>
+<author_keyword key="91">
+	<author>Acheson et al ref:23 (p48)</author>
+</author_keyword>
+<author_keyword key="92">
+	<author>Health and Safety Executive ref:88 in Acheson et al ref:23</author>
+</author_keyword>
+<author_keyword key="93">
+	<author>Hemingway and Marmot ref:89 in Acheson et al ref:23</author>
+</author_keyword>
+<author_keyword key="94">
+	<author>Marmot et al ref:90 in Acheson et al ref:23</author>
+</author_keyword>
+<author_keyword key="95">
+	<author>Hemingway and Marmot 89, Marmot 90, Hemingway 91, Emdad 92, Siegrist93 Karasek Theorell 26 in Acheson 23</author>
+</author_keyword>
+<author_keyword key="96">
+	<author>Karasek ref:94 in Acheson et al ref:23</author>
+</author_keyword>
+<author_keyword key="97">
+	<author>WHO ref:95 in Acheson et al ref:23</author>
+</author_keyword>
+<author_keyword key="98">
+	<author>Health and Safety Executive ref:96 in Acheson et al ref:23</author>
+</author_keyword>
+<author_keyword key="99">
+	<author>Division of Mental Health ref:97 in Acheson et al ref:23</author>
+</author_keyword>
+<author_keyword key="100">
+	<author>Health and Safety Executive ref:98 in Acheson et al ref:23</author>
+</author_keyword>
+<author_keyword key="101">
+	<author>Graetz ref:36</author>
+</author_keyword>
+<author_keyword key="102">
+	<author>Allen ref:105</author>
+</author_keyword>
+<author_keyword key="103">
+	<author>Atkinson and Kintrea ref:107</author>
+</author_keyword>
+<author_keyword key="104">
+	<author>Collard ref:106</author>
+</author_keyword>
+<author_keyword key="105">
+	<author>Dalgard and Tambs ref:108</author>
+</author_keyword>
+<author_keyword key="106">
+	<author>Evans and Dowler ref:109</author>
+</author_keyword>
+<author_keyword key="107">
+	<author>Halpern ref:110</author>
+</author_keyword>
+<author_keyword key="108">
+	<author>Hopton and Hunt ref:111</author>
+</author_keyword>
+<author_keyword key="109">
+	<author>Smith et al ref:104</author>
+</author_keyword>
+<author_keyword key="110">
+	<author>Wadham ref:112</author>
+</author_keyword>
+<author_keyword key="111">
+	<author>Bardsley et al ref:100 (p23)</author>
+</author_keyword>
+<author_keyword key="112">
+	<author>Health Action for Homeless People ref:113 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="113">
+	<author>Hinton in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="114">
+	<author>Susser et al ref:115 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="115">
+	<author>Bardsley et al ref:100 (p23)</author>
+</author_keyword>
+<author_keyword key="116">
+	<author>Bardsley et al ref:100 (p24)</author>
+</author_keyword>
+<author_keyword key="117">
+	<author>Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="118">
+	<author>Morris ref:116, Williams and Allen ref:117 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="119">
+	<author>North et al, Shelter ref:118 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="120">
+	<author>Scheuer ref:119, Black et al ref:120 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="121">
+	<author>Williams and Allen ref:117 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="122">
+	<author>Stern et al in Best ref:121</author>
+</author_keyword>
+<author_keyword key="123">
+	<author>Bines ref:122 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="124">
+	<author>Goldberg et al ref:123 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="125">
+	<author>Lamb and Lamb ref:124 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="126">
+	<author>Leff in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="127">
+	<author>Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="128">
+	<author>Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="129">
+	<author>Clinton-Davis and Fassil ref:125 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="130">
+	<author>Bines ref:122 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="131">
+	<author>Shiner ref:126 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="132">
+	<author>Bardsley et al ref:100 (p28), Barry et al ref:127 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="133">
+	<author>Bines ref:122 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="134">
+	<author>BMA ref:103 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="135">
+	<author>BMA ref:103 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="136">
+	<author>BMA ref:103 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="137">
+	<author>BMA ref:103 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="138">
+	<author>Fisher et al ref:128, Newton et al ref:129 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="139">
+	<author>Bines ref:122 in Best</author>
+</author_keyword>
+<author_keyword key="140">
+	<author>Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="141">
+	<author>Barker et al ref:130 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="142">
+	<author>Artblaster and Hawtin ref:131 in Best121</author>
+</author_keyword>
+<author_keyword key="143">
+	<author>Artblaster and Hawtin ref:131 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="144">
+	<author>Boardman132;133 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="145">
+	<author>Burr et al ref:134 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="146">
+	<author>Hunt in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="147">
+	<author>Hunt in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="148">
+	<author>Hunt in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="149">
+	<author>Hunt in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="150">
+	<author>Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="151">
+	<author>Martin et al ref:135 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="152">
+	<author>Platt et al ref:136 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="153">
+	<author>Strachan and Elton ref:137 Strachan ref:138 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="154">
+	<author>Strachan ref:139 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="155">
+	<author>Todd ref:140 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="156">
+	<author>CAPT ref:141 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="157">
+	<author>Constantinides ref:142 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="158">
+	<author>DTI ref:143 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="159">
+	<author>Freeman ref:144 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="160">
+	<author>Best ref:121</author>
+</author_keyword>
+<author_keyword key="161">
+	<author>Roberts and Power ref:7 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="162">
+	<author>Reading et al ref:145</author>
+</author_keyword>
+<author_keyword key="163">
+	<author>Gabe and Williams ref:102 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="164">
+	<author>Hunt ref:146 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="165">
+	<author>Walker ref:147</author>
+</author_keyword>
+<author_keyword key="166">
+	<author>Brennan and Lancashire ref:148 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="167">
+	<author>Goldblatt ref:123 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="168">
+	<author>Nettleton and Burrows ref:149</author>
+</author_keyword>
+<author_keyword key="169">
+	<author>Nettleton et al ref:150</author>
+</author_keyword>
+<author_keyword key="170">
+	<author>Morse and Calsyn ref:151 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="171">
+	<author>Acheson Report Mirlees-Black (British Crime Survey) in Keithley and Robinson ref:152</author>
+</author_keyword>
+<author_keyword key="172">
+	<author>Mirlees-Black (British Crime Survey) in Keithley and Robinson ref:152</author>
+</author_keyword>
+<author_keyword key="173">
+	<author>Shepherd in Keithley and Robinson ref:152</author>
+</author_keyword>
+<author_keyword key="111">
+	<author>Bardsley et al ref:100 (p23)</author>
+</author_keyword>
+<author_keyword key="112">
+	<author>Health Action for Homeless People ref:113 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="113">
+	<author>Hinton in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="114">
+	<author>Susser et al ref:115 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="115">
+	<author>Bardsley et al ref:100 (p23)</author>
+</author_keyword>
+<author_keyword key="116">
+	<author>Bardsley et al ref:100 (p24)</author>
+</author_keyword>
+<author_keyword key="117">
+	<author>in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="118">
+	<author>Morris ref:116, Williams and Allen ref:117 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="119">
+	<author>North et al, Shelter ref:118 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="120">
+	<author>Scheuer ref:119, Black et al ref:120 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="121">
+	<author>Williams and Allen ref:117 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="122">
+	<author>Stern et al in Best ref:121</author>
+</author_keyword>
+<author_keyword key="123">
+	<author>Bines ref:122 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="124">
+	<author>Goldberg et al ref:123 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="125">
+	<author>Lamb and Lamb ref:124 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="126">
+	<author>Leff in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="127">
+	<author>Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="128">
+	<author>Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="129">
+	<author>Clinton-Davis and Fassil ref:125 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="130">
+	<author>Bines ref:122 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="131">
+	<author>Shiner ref:126 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="132">
+	<author>Bardsley et al ref:100 (p28), Barry et al ref:127 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="133">
+	<author>Bines ref:122 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="134">
+	<author>BMA ref:103 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="135">
+	<author>BMA ref:103 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="136">
+	<author>BMA ref:103 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="137">
+	<author>BMA ref:103 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="138">
+	<author>Fisher et al ref:128, Newton et al ref:129 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="139">
+	<author>Bines ref:122 in Best</author>
+</author_keyword>
+<author_keyword key="140">
+	<author>in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="141">
+	<author>Barker et al ref:130 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="142">
+	<author>Artblaster and Hawtin ref:131 in Best121</author>
+</author_keyword>
+<author_keyword key="143">
+	<author>Artblaster and Hawtin ref:131 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="144">
+	<author>Boardman132;133 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="145">
+	<author>Burr et al ref:134 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="146">
+	<author>Hunt in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="147">
+	<author>Hunt in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="148">
+	<author>Hunt in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="149">
+	<author>Hunt in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="150">
+	<author>Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="151">
+	<author>Martin et al ref:135 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="152">
+	<author>Platt et al ref:136 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="153">
+	<author>Strachan and Elton ref:137 Strachan ref:138 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="154">
+	<author>Strachan ref:139 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="155">
+	<author>Todd ref:140 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="156">
+	<author>CAPT ref:141 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="157">
+	<author>Constantinides ref:142 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="158">
+	<author>DTI ref:143 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="159">
+	<author>Freeman ref:144 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="160">
+	<author>Best ref:121</author>
+</author_keyword>
+<author_keyword key="161">
+	<author>Roberts and Power ref:7 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="162">
+	<author>Reading et al ref:145</author>
+</author_keyword>
+<author_keyword key="163">
+	<author>Gabe and Williams ref:102 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="164">
+	<author>Hunt ref:146 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="165">
+	<author>Walker ref:147</author>
+</author_keyword>
+<author_keyword key="166">
+	<author>Brennan and Lancashire ref:148 in Ambrose et al ref:99</author>
+</author_keyword>
+<author_keyword key="167">
+	<author>Goldblatt ref:123 in Best ref:121</author>
+</author_keyword>
+<author_keyword key="168">
+	<author>Nettleton and Burrows ref:149</author>
+</author_keyword>
+<author_keyword key="169">
+	<author>Nettleton et al ref:150</author>
+</author_keyword>
+<author_keyword key="170">
+	<author>Morse and Calsyn ref:151 in Bardsley et al ref:100</author>
+</author_keyword>
+<author_keyword key="171">
+	<author>Acheson Report Mirlees-Black (British Crime Survey) in Keithley and Robinson ref:152</author>
+</author_keyword>
+<author_keyword key="172">
+	<author>Mirlees-Black (British Crime Survey) in Keithley and Robinson ref:152</author>
+</author_keyword>
+<author_keyword key="173">
+	<author>Shepherd in Keithley and Robinson ref:152</author>
+</author_keyword>
+<author_keyword key="174">
+	<author>Baum ref:165</author>
+</author_keyword>
+<author_keyword key="175">
+	<author>Berkman and Syme ref:166</author>
+</author_keyword>
+<author_keyword key="176">
+	<author>Burdine et al ref:167</author>
+</author_keyword>
+<author_keyword key="177">
+	<author>Campbell et al ref:168</author>
+</author_keyword>
+<author_keyword key="178">
+	<author>Kawachi et al ref:169</author>
+</author_keyword>
+<author_keyword key="179">
+	<author>Kawachi et al ref:170</author>
+</author_keyword>
+<author_keyword key="180">
+	<author>Kawachi et al ref:171</author>
+</author_keyword>
+<author_keyword key="181">
+	<author>Leeder and Dominello ref:172</author>
+</author_keyword>
+<author_keyword key="182">
+	<author>Morrow ref:155</author>
+</author_keyword>
+<author_keyword key="183">
+	<author>O'Reilly and Thomas , 1989 </author>
+</author_keyword>
+<author_keyword key="184">
+	<author>Runyan et al ref:174</author>
+</author_keyword>
+<author_keyword key="185">
+	<author>Siahpush and Singh ref:175</author>
+</author_keyword>
+<author_keyword key="186">
+	<author>Stansfeld ref:156</author>
+</author_keyword>
+<author_keyword key="187">
+	<author>Veenstra ref:176</author>
+</author_keyword>
+<author_keyword key="188">
+	<author>Cattell and Evans ref:177</author>
+</author_keyword>
+<author_keyword key="189">
+	<author>Moser and McIlwaine ref:178</author>
+</author_keyword>
+<author_keyword key="174">
+	<author>Baum ref:165</author>
+</author_keyword>
+<author_keyword key="175">
+	<author>Berkman and Syme ref:166</author>
+</author_keyword>
+<author_keyword key="176">
+	<author>Burdine et al ref:167</author>
+</author_keyword>
+<author_keyword key="177">
+	<author>Campbell et al ref:168</author>
+</author_keyword>
+<author_keyword key="178">
+	<author>Kawachi et al ref:169</author>
+</author_keyword>
+<author_keyword key="179">
+	<author>Kawachi et al ref:170</author>
+</author_keyword>
+<author_keyword key="180">
+	<author>Kawachi et al ref:171</author>
+</author_keyword>
+<author_keyword key="181">
+	<author>Leeder and Dominello ref:172</author>
+</author_keyword>
+<author_keyword key="182">
+	<author>Morrow ref:155</author>
+</author_keyword>
+<author_keyword key="183">
+	<author>O'Reilly and Thomas , 1989 Role of social support network in maintenance of improved cardiovascular health status.</author>
+</author_keyword>
+<author_keyword key="184">
+	<author>Runyan et al ref:174</author>
+</author_keyword>
+<author_keyword key="185">
+	<author>Siahpush and Singh ref:175</author>
+</author_keyword>
+<author_keyword key="186">
+	<author>Stansfeld ref:156</author>
+</author_keyword>
+<author_keyword key="187">
+	<author>Veenstra ref:176</author>
+</author_keyword>
+<author_keyword key="188">
+	<author>Cattell and Evans ref:177</author>
+</author_keyword>
+<author_keyword key="189">
+	<author>Moser and McIlwaine ref:178</author>
+</author_keyword>
+<author_keyword key="174">
+	<author>Baum ref:165</author>
+</author_keyword>
+<author_keyword key="175">
+	<author>Berkman and Syme ref:166</author>
+</author_keyword>
+<author_keyword key="176">
+	<author>Burdine et al ref:167</author>
+</author_keyword>
+<author_keyword key="177">
+	<author>Campbell et al ref:168</author>
+</author_keyword>
+<author_keyword key="178">
+	<author>Kawachi et al ref:169</author>
+</author_keyword>
+<author_keyword key="179">
+	<author>Kawachi et al ref:170</author>
+</author_keyword>
+<author_keyword key="180">
+	<author>Kawachi et al ref:171</author>
+</author_keyword>
+<author_keyword key="181">
+	<author>Leeder and Dominello ref:172</author>
+</author_keyword>
+<author_keyword key="182">
+	<author>Morrow ref:155</author>
+</author_keyword>
+<author_keyword key="183">
+	<author>O'Reilly and Thomas , 1989 </author>
+</author_keyword>
+<author_keyword key="184">
+	<author>Runyan et al ref:174</author>
+</author_keyword>
+<author_keyword key="185">
+	<author>Siahpush and Singh ref:175</author>
+</author_keyword>
+<author_keyword key="186">
+	<author>Stansfeld ref:156</author>
+</author_keyword>
+<author_keyword key="187">
+	<author>Veenstra ref:176</author>
+</author_keyword>
+<author_keyword key="188">
+	<author>Cattell and Evans ref:177</author>
+</author_keyword>
+<author_keyword key="189">
+	<author>Moser and McIlwaine ref:178</author>
+</author_keyword>
+<author_keyword key="190">
+<author>Riley et al.</author>
+</author_keyword>
+<author_keyword key="191">
+<author>Bush, G</author>
+</author_keyword>
+<author_keyword key="192">
+<author>HASH(0x96dd808)</author>
+</author_keyword>
+</records>

@@ -1,0 +1,1730 @@
+<records>
+  <heTrafficTransReview key="001">
+    <aspect_of_health>heart disease, blood pressure, cholestrol, obesity</aspect_of_health>
+    <aspect_of_regeneration>exercise</aspect_of_regeneration>
+    <author>McCarthy ref:6</author>
+    <health_outcome_effects>regular exercise probably has ... ... short term effects in terms of improvement in cardiovascular health ... long-term protective effects in limiting the development of obesity, strengthening the heart muscle and reducing blood pressure ... metabolic effects improving cholesterol and fibrinogen levels and insulin sensitivity</health_outcome_effects>
+    <mediating_factors>walking is most beneficial for older people and young and middle age adults regular exercise most effective and sustainable if incorporated into daily routine</mediating_factors>
+    <notes>globally motor vehicles kill more than andfrac12; million people per annum and injure 15+ million health effects of transport can considered in two ways as the resulting health status (usually diseases) and through causal mechanisms</notes>
+    <process>the most important contribution of transport is by encouraging exercise</process>
+    <reference_no>6.00</reference_no>
+    <study_design_and_sample>review of links between transport and aspects of health</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="002">
+    <aspect_of_health>mental health</aspect_of_health>
+    <aspect_of_regeneration>traffic</aspect_of_regeneration>
+    <author>McCarthy ref:6</author>
+    <health_outcome_effects>mental health ... ... exercise can stimulate thought and protect from depression ... roads and traffic cause community severance ... link between traffic noise and mental health is difficult to demonstrate ... trains and aircraft also have significant effects</health_outcome_effects>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process>community severance ... streets with less traffic (speed and volume) have a better quality of life ref:20 (measured by counts of street activities, open windows, flower boxes and other signs of personal care)</process>
+    <reference_no>6.00</reference_no>
+    <study_design_and_sample>review of links between transport and aspects of health</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="003">
+    <aspect_of_health>respiratory diseases</aspect_of_health>
+    <aspect_of_regeneration>traffic</aspect_of_regeneration>
+    <author>McCarthy ref:6</author>
+    <health_outcome_effects>relationship of transport to respiratory diseases is complex</health_outcome_effects>
+    <mediating_factors></mediating_factors>
+    <notes>indoor air is major effect on respiratory diseases (see Evidence base from major reviews of housing and health, pages *-*)</notes>
+    <process>health effects can be separated into three parts ... directly poisonous emissions such as benzene, a known carcinogen ... greenhouse gases affecting the global climate eg CO2 ... small particulates especially produced by diesel vehicles</process>
+    <reference_no>6.00</reference_no>
+    <study_design_and_sample>review of links between transport and aspects of health</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="004">
+    <aspect_of_health>accidents</aspect_of_health>
+    <aspect_of_regeneration>traffic exposure</aspect_of_regeneration>
+    <author>McCarthy ref:6</author>
+    <health_outcome_effects>different exposures to road injuries by age children ... pedestrian deaths young adults ... drivers and passengers of cars and motorbikes middle-aged male car-drivers at risk through exposure old people ... pedestrian deaths cyclists at risk at all ages accidents show a social class gradient eg Jarvis et al ref:21 ... in the UK road traffic accident deaths for children in poorest families (social class V) more than 4 times greater than those in the richest (social class I) exponential rise in risk to pedestrians with increasing traffic speed</health_outcome_effects>
+    <mediating_factors>safety is not represented by accident rates because it is mediated by human action and exposure eg ... motorways are not safe for pedestrians but there are very few pedestrian deaths on motorways</mediating_factors>
+    <notes>the cause of an accident should not be attributed to the victim ... car driving is unsafe</notes>
+    <process></process>
+    <reference_no>6.00</reference_no>
+    <study_design_and_sample>review of links between transport and aspects of health</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="005">
+    <aspect_of_health>death rate, injury, poisoning</aspect_of_health>
+    <aspect_of_regeneration>traffic exposure</aspect_of_regeneration>
+    <author>Roberts et al ref:7</author>
+    <health_outcome_effects>death rates decreased for all children in all social classes I and II fell by 32% and 37% IV and V fell by 21% and 2% child injury death rates by social class and external causes decreased for motor vehicle accidents I and II fell by 30% and 39% IV and V fell by 18% and 1% motor vehicle accidents account for almost andfrac12; of all child injury deaths steep social gradient for pedestrian mortality</health_outcome_effects>
+    <mediating_factors>car seats are expensive relative to disposable income of lower social groups</mediating_factors>
+    <notes>socioeconomic inequalities in child injury death rates persist as long as the safety of vehicles depends on a willingness and ability to pay inequalities will persist</notes>
+    <process>in a car crash the risk of death is higher for the occupants of a smaller and/or older car compared to the occupants of a larger and/or newer car</process>
+    <reference_no>7.00</reference_no>
+    <study_design_and_sample>cross sectional comparison of class-specific injury death rates for children 0-15 years old English and Welsh data from 1979-1983 (excluding 1981) and 1989-1992</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="006">
+    <aspect_of_health>injury</aspect_of_health>
+    <aspect_of_regeneration>traffic volume, curbside parking</aspect_of_regeneration>
+    <author>Roberts et al ref:8</author>
+    <health_outcome_effects>risk of injury of child pedestrians was strongly associated with traffic volume ... risk of injury increased with traffic volume risk of injury at sites with highest traffic volumes was 14 times greater than at less busy sites (OR 14.30, 95% CI 6.98 to 29.20) high density of curb parking associated with increased risk (OR 8.12, 95% CI 3.32 to 19.90) risk was increased with mean speeds over 40kph (OR 2.68, 95% CI 1.26 to 5.69)</health_outcome_effects>
+    <mediating_factors>n/a</mediating_factors>
+    <notes>authors argue that results provide strong argument for reducing traffic volumes in urban areas to prevent child pedestrian injuries restricting curb parking at specific crossing points may also be effective traffic management schemes to divert traffic away from residential areas traffic calming schemes in residential areas cost-effective to target this initiative on most socio-economically disadvantaged areas</notes>
+    <process>n/a</process>
+    <reference_no>8.00</reference_no>
+    <study_design_and_sample>community based case-control study environmental characteristics of sites of child pedestrian injury were compared with control sites the sites of pedestrian injury were the same distance from the case child's home as the control site was from the control child's home</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="007">
+    <aspect_of_health>perceived health problems, skin problems, cancer, breathing</aspect_of_health>
+    <aspect_of_regeneration>traffic pollution</aspect_of_regeneration>
+    <author>Boyes et al ref:9</author>
+    <health_outcome_effects>children made links between all the health outcomes and car exhaust</health_outcome_effects>
+    <mediating_factors>tendency to over generalise ... seeing substances as either noxious or benign next generation of car drivers have no clear understanding of ways in which exhaust gases might cause health problems ... resistant to legislating against car use but receptive to idea that people who drive large cars should pay more for the privilege</mediating_factors>
+    <notes>children's understanding of polluting nature of motor car important for their future role as citizens is teaching about environmental issues counterproductive and can it lead to feelings of despair? is an understanding of the consequences of failing to halt global environmental degradation enough to motivate personal change?</notes>
+    <process>perceived links</process>
+    <reference_no>9.00</reference_no>
+    <study_design_and_sample>cross sectional educational survey of 900 13-14 year old UK school pupils to examine understanding of motor transport as polluter questionnaire filled in by children</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="008">
+    <aspect_of_health>lung function, chronic obstructive lung disease</aspect_of_health>
+    <aspect_of_regeneration>traffic pollution</aspect_of_regeneration>
+    <author>McMichael ref:10</author>
+    <health_outcome_effects>air pollutants have various acute and longer-term health effects short-term can impair lung function, cause mucosal inflammation, increase tissue sensitivity to repeated exposure and cause respiratory symptoms</health_outcome_effects>
+    <mediating_factors>calculating the effect of individual constituent pollutants may miss some of the real-world effects</mediating_factors>
+    <notes>cars produce 40-80% of various major air pollutants and around 20% of the two major heat-trapping gases (CO2 and chlorofluorocarbons)</notes>
+    <process>main air pollution hazards from exhausts of cars, lorries and buses arise from particulates and nitrogen dioxide (NO2), volatile organics and the photochemicals they produce (mainly ozone) photochemical smogs in summer when anticyclonic conditions enhance the photochemical activation of becalmed air pollutants NO2 rich smogs in winter</process>
+    <reference_no>10.00</reference_no>
+    <study_design_and_sample>review article looking at the health impacts of, and risks posed by, transport, in general, and transport related air pollution in particular</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="009">
+    <aspect_of_health>cardiovascular disease</aspect_of_health>
+    <aspect_of_regeneration>traffic pollution</aspect_of_regeneration>
+    <author>McMichael ref:10</author>
+    <health_outcome_effects>carbon monoxide epidemiological evidence is not conclusive ambient levels unlikely to achieve high enough concentration to cause manifest adverse cardiovascular effects clinical experiments show that CO exposure can bring on exercise-induced angina in people with pre-existing cardiovascular disease ... threshold level appears to be approximately 50-100ppm</health_outcome_effects>
+    <mediating_factors>n/a</mediating_factors>
+    <notes>n/a</notes>
+    <process>carbon monoxide (CO) lowers the oxygen carrying capacity of blood by competing with haemoglobin to bind with oxygen in the blood ... this can jeapordize tissues sensitive to reduced oxygenation eg the heart and the brain vehicle emissions responsible for most urban CO especially where vehicles lack catalytic converters or are poorly maintained in-vehicle concentrations of CO are much higher than those at ambient monitoring sites and are positively correlated with traffic density and low speeds exposure several times higher for commuters in cars than for those in buses or trains</process>
+    <reference_no>10.00</reference_no>
+    <study_design_and_sample>review article looking at the health impacts of, and risks posed by, transport, in general, and transport related air pollution in particular</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="010">
+    <aspect_of_health>lung function</aspect_of_health>
+    <aspect_of_regeneration>traffic pollution</aspect_of_regeneration>
+    <author>McMichael ref:10</author>
+    <health_outcome_effects>appears to impair deep lung functioning exposure to 500-2000m g/m ref:3 caused modest changes in healthy individuals and greater change in asthmatics meta-analysis of indoor studies estimated a 20% increase in respiratory infection for increase in NO2 exposure of 30m g/m ref:3</health_outcome_effects>
+    <mediating_factors>n/a</mediating_factors>
+    <notes>n/a</notes>
+    <process>n/a</process>
+    <reference_no>10.00</reference_no>
+    <study_design_and_sample>review article looking at the health impacts of, and risks posed by, transport, in general, and transport related air pollution in particular</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="011">
+    <aspect_of_health>lung function</aspect_of_health>
+    <aspect_of_regeneration>traffic pollution</aspect_of_regeneration>
+    <author>McMichael ref:10</author>
+    <health_outcome_effects>ozone reacts rapidly with respiratory tissues, impedes lung function and damages cells affects lungs at 0.1ppm the lung function of asthmatic children, previously exposed to low concentrations of ozone, was affected by low concentrations of sulphur dioxide</health_outcome_effects>
+    <mediating_factors>respiratory effects of ozone are difficult to isolate the effect is dependent on other pollutants</mediating_factors>
+    <notes>n/a</notes>
+    <process>n/a</process>
+    <reference_no>10.00</reference_no>
+    <study_design_and_sample>review article looking at the health impacts of, and risks posed by, transport, in general, and transport related air pollution in particular</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="012">
+    <aspect_of_health>mortality</aspect_of_health>
+    <aspect_of_regeneration>traffic pollution</aspect_of_regeneration>
+    <author>McMichael ref:10</author>
+    <health_outcome_effects>studies of mortality in people with long-term exposure to particulates suggest that health is affected by different mechanisms according to the type of exposure increase in particulate concentration of 10m g/m ref:3 associated with a 1% increase in daily deaths lifelong exposure to an extra 10m g/m ref:3 of fine particulates entails a several-fold increase in mortality rates</health_outcome_effects>
+    <mediating_factors>n/a</mediating_factors>
+    <notes>n/a</notes>
+    <process>different biological processes for ... the causation of life-shortening chronic diseases by long-term exposure to air pollution and ... the precipitation, by short-term exposure, of death in susceptible people</process>
+    <reference_no>10.00</reference_no>
+    <study_design_and_sample>review article looking at the health impacts of, and risks posed by, transport, in general, and transport related air pollution in particular</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="013">
+    <aspect_of_health>accidents, fatalities</aspect_of_health>
+    <aspect_of_regeneration>cycle use</aspect_of_regeneration>
+    <author>Pucher et al ref:12</author>
+    <health_outcome_effects>measured on the basis of trips, distance or hours, accident risks from cycling are several times those for driving in the US, Canada, Germany, Netherlands and the UK in 1975 cycling fatalities counted for 68% of all fatalities among children 15 or younger ... dropped to 33% in 1996</health_outcome_effects>
+    <mediating_factors>little has been done to educate motorists about cyclists' rights or to enforce traffic laws that allow cycling key to increased cycling may be polices that compel motorists to respect non-motorized users of roadways</mediating_factors>
+    <notes>in the US cycling falls sharply with increasing age US cycling is more common among men US cycling is inversely correlated with income designated bicycle lanes can make cycling slower and more dangerous and they promote the belief that cyclists are not legitimate users of ordinary roads urban bicycle paths can increase the risk of car-bike collision at junctions to the point that overall risk can be greater on than on ordinary roads</notes>
+    <process>some of the drop in juvenile fatalities (US) may be attributable to increased helmet use a bigger factor may be a decline in child cycling due to higher traffic volumes on residential streets, reductions in unsupervised play and heightened risk aversion among parents</process>
+    <reference_no>12.00</reference_no>
+    <study_design_and_sample>review of road traffic accident risks for cyclists in North America</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="014">
+    <aspect_of_health>heart disease, obesity, mortality</aspect_of_health>
+    <aspect_of_regeneration>cycle use</aspect_of_regeneration>
+    <author>BMA ref:11</author>
+    <health_outcome_effects>report a decrease in incidence of myocardial infarction and ischaemic heart disease in all the cyclists studied and a tenfold decrease in the incidence of ischaemic heart disease in the over-75 group ref:22 cardiovascular-related gains relative to longevity from cycling far outweigh collision risks strenuous exercise can maintain a high metabolic rate for up to 24 hours afterwards</health_outcome_effects>
+    <mediating_factors>people with coronary heart disease are advised to avoid heavily trafficked streets because of the dangers of breathing high levels of carbon monoxide which is a contributory factor in cardiac arrhythmia most pre-pubertal children enjoy physical activity and take enough to derive health benefits ... activity levels fall during adolescence, especially among girls cycling is a form of exercise which is available to most adults and children calculations of activity based on time in curriculum overestimate the actual time spent exercising due to time spent changing, showering and hanging about regular exercise as part of routine daily life is more beneficial to the obese than is indicated simply by energy expenditure</mediating_factors>
+    <notes>medical evidence shows obesity to be a health hazard which exacerbates the effects of much morbidity and is associated with a greater likelihood of developing heart disease, hypertension, late-onset diabetes, arthritis and bronchitis</notes>
+    <process>exercise is likely to benefit the heart ... brisk walking, ie above ordinary strolling, is usually recommended cycling ... ... is an ideal aerobic exercise as it involves the rhythmic contraction of large limb muscles ... is more exercise than is usual for a sedentary population ... places different strains on muscles and joints to weight-bearing exercises which may be relevant for people who are overweight sense of purpose may contribute to making an activity more enjoyable</process>
+    <reference_no>11.00</reference_no>
+    <study_design_and_sample>review of the evidence from studies of cycling in relation to the risks of heart disease and obesity</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="015">
+    <aspect_of_health>injuries</aspect_of_health>
+    <aspect_of_regeneration>cycle use</aspect_of_regeneration>
+    <author>Rivara et al ref:13</author>
+    <health_outcome_effects>most important predictors of injury severity are vehicle involvement and self-reported speed at time of crash fatal injuries ... lack of use of a bicycle helmet or involvement of motor vehicle each associated with a 14-fold increase in fatality rate helmet use not associated with injury severity motor vehicles involved in only 15.3% of crashes ... more commonly rider lost control and hit the ground (50.0%) or an obstacle (29.0%) collisions with motor vehicles increase the risk of hospitalisation nearly fourfold youngest cyclists at twofold increased risk for serious injury ... speed related to risk of severe injury and fatal injury motor vehicle involvement is a predictor of serious injury</health_outcome_effects>
+    <mediating_factors>study population ... more than two thirds male ... 43.3% &gt;13 years old compared with standard metropolitan area (SMSA) the study sample were more likely to be male, to be a child or a teen and to come form a house where head of household has some postgraduate education ... incomes comparable with SMSA population</mediating_factors>
+    <notes>n/a</notes>
+    <process>most cycling accidents and injuries result from falls of collisions with fixed objects separating cyclists from traffic does not free cyclists from the risks of motorised traffic ... there is an increased risk to cyclists at intersection of segregated cycle lanes and traffic</process>
+    <reference_no>13.00</reference_no>
+    <study_design_and_sample>prospective case-control study in seven Seattle area hospital emergency departments and two county medical examiner's offices from 1/3/92 to 31/8/94 3849 eligible subjects ... obtained information from 88.0% (n=3390) information on circumstances of crash collected from injured patients or their parents by self-completed questionnaire questionnaire included demographic characteristics, cycling experience, circumstances of crash, self-reported speed, severity of damage, ownership and use of helmet and helmet fit</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="016">
+    <aspect_of_health>hospital admission rate</aspect_of_health>
+    <aspect_of_regeneration>traffic exposure</aspect_of_regeneration>
+    <author>Carlin et al ref:14</author>
+    <health_outcome_effects>road traffic injury commencement of exercise habits with long-term consequences differences in measures of exposure do not fully explain sex differences in pedestrian injury rates small difference in exposure to traffic but relative rates of hospitalisation boys to girls were 2.1 for 5-7 year group and 1.7 for 8-10 year group peak of pedestrian injuries in mid- to late-afternoon</health_outcome_effects>
+    <mediating_factors>all comparisons using indicators of socioeconomic status show clear trends toward less walking with higher socioeconomic status logistic regression showed that strongest predictor of walking activity was school type (government versus independent) ... and after adjusting for this lesser car ownership, non-English speaking background and lower occupational category unaccompanied street crossing was associated with age, sex and maternal education little difference in overall walking levels between boys and girls but boys were significantly more likely to cross streets unaccompanied</mediating_factors>
+    <notes>assumption that '...children who regularly walk and cycle are likely to become adults who regularly walk and cycle ...' however car ownership and use is status symbol and to be aspired to the predominant use of cars for transporting children may lead to an increased risk of road traffic accident for children whose parents are unable, or less willing, to drive their children</notes>
+    <process>important to measure unaccompanied street crossing as opposed to total streets crossed or simply walking to school larger proportion of children walk home from, rather than to, school developmental factors important in injury risk ... there was a strong age difference in unaccompanied street crossing but a negligible difference in same sex injury rates</process>
+    <reference_no>14.00</reference_no>
+    <study_design_and_sample>cross sectional survey of six- and nine-year-old children in two Australian cities 72 schools in Melbourne and 48 schools in Perth between September and November 1994 ie spanning a range of weather conditions two-stage random clustering ... schools were selected with a probability proportional to the school's total enrolment in the age group of interest collect population-based data on modes of travel, numbers of street crossings and sociodemographic factors parent self-administered questionnaire about child's walking activity for that day Perth ... 4271 questionnaires distributed ... 65% response rate (n=2781) Melbourne ... 3963 questionnaires distributed ... 82% response rate (n=3198)</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="017">
+    <aspect_of_health>mental health</aspect_of_health>
+    <aspect_of_regeneration>physical activity</aspect_of_regeneration>
+    <author>Paluska and Schwenk ref:17</author>
+    <health_outcome_effects>although people with depression tend to be less physically active than non-depressed individuals, increased aerobic exercise or strength training has been shown to reduce depressive symptoms significantly however, habitual physical activity has not been shown to prevent the onset of depression anxiety symptoms and panic disorder also improve with regular exercise, and beneficial effects appear to equal meditation or relaxation in general, acute anxiety responds better to exercise than chronic anxiety, studies of older adults and adolescents with depression or anxiety have been limited, but physical activity appears beneficial to these populations as well</health_outcome_effects>
+    <mediating_factors>excessive physical activity may lead to over-training and generate psychological symptoms that mimic depression</mediating_factors>
+    <notes>n/a</notes>
+    <process>physical activity may play an important role in the management of mild-to-moderate mental health diseases, especially depression and anxiety</process>
+    <reference_no>17.00</reference_no>
+    <study_design_and_sample>review article</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="018">
+    <aspect_of_health>coronary artery disease, systemic hypertension, obesity, emotional disorders, ageing, osteoporosis, diabetes, injuries</aspect_of_health>
+    <aspect_of_regeneration>physical activity</aspect_of_regeneration>
+    <author>Rowland et al ref:16</author>
+    <health_outcome_effects>the list of health aspects associated with low levels of exercise includes some major causes of death and disability ... exercise has capacity to diminish morbidity and mortality within the population composed almost exclusively of disorders that affect the health of adults most involve lifelong processes that begin during the child or adolescent years and surface clinically in later adulthood</health_outcome_effects>
+    <mediating_factors>evidence from child studies is equivocal ... how does activity/fitness affect health ... ? exercise directly improves children's health ... childhood morbidity and mortality relate to accidents, cancer disease etc so morbidity and mortality may increase with activity exercise during childhood produces changes which have a beneficial effect on adult health ... no evidence for this ... student athletes who adopt sedentary lifestyles as adults do not enjoy a decreased risk for coronary artery disease childhood exercise habits persist into adult years and a physically active life positively affects health outcomes ... seems most likely ... promoting exercise in children must be predicated on the assumption that exercise habits 'track' through life</mediating_factors>
+    <notes>n/a</notes>
+    <process>question ... physical fitness or physical activity? should emphasis be on children's activity habits or should attempts be made to improve their physical abilities? multiple health outcomes from exercise so activity and exercise are probably important depending on the desired health benefit</process>
+    <reference_no>16.00</reference_no>
+    <study_design_and_sample>review of studies which look at impacts of activity and exercise on peoples' health</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="019">
+    <aspect_of_health>heart rate</aspect_of_health>
+    <aspect_of_regeneration>physical activity</aspect_of_regeneration>
+    <author>Rowlands et al ref:19</author>
+    <health_outcome_effects>article which suggests an approach to measuring activity levels</health_outcome_effects>
+    <mediating_factors>self-report can be used to determine adult activity patterns, but children's recall is not reliable heart rate has been used to estimate daily activity in children heart rate is an indirect estimate of physical activity ... it makes assumptions based on the linear relationship between heart rate and oxygen uptake ... it is sensitive to emotional stress and body position ... it takes longer to reach resting levels after physical exertion compared with oxygen uptake ... it lags behind movement, particularly as children's physical activity is spasmodic or intermittent in nature</mediating_factors>
+    <notes>evidence to suggest that the total activity data measured by pedometers over limited periods of time may be appropriate for assessing children's level of activity measurement must be low in cost, agreeable to the participants and accurate</notes>
+    <process>prolonged activity periods are not typically associated with childhood behaviour patterns the use of a threshold value for 'aerobic' training stimulus is not appropriate as a cut-off value for physical activity</process>
+    <reference_no>19.00</reference_no>
+    <study_design_and_sample>review article which looks at the progression of physical activity behaviour from childhood to adulthood propose the pedometer as a valid, reliable and practical method to assess activity levels of children and in large groups</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="020">
+    <aspect_of_health>physical health</aspect_of_health>
+    <aspect_of_regeneration>physical activity</aspect_of_regeneration>
+    <author>Sleap and Warburton ref:18</author>
+    <health_outcome_effects>38 children (21%) engaged in a sustained 20-minute period of MVPA, but nearly all children (95%) took part in a 5-minute period of MVPA the highest recordings of MVPA occurred during school break times but MVPA was less prominent during free time outside of school sustained MVPA was particularly low during physical education lessons with only 13 children (8 %) participating in at least one sustained 10-min period</health_outcome_effects>
+    <mediating_factors>there appeared to be no difference in activity levels between boys and girls or between children of differing ages</mediating_factors>
+    <notes>if childhood is considered to be the most active stage of life there must be concern for the future there is a need for health professionals to promote active lifestyles from birth</notes>
+    <process>soccer, brisk walking, general play and chasing games were the most common activities preadolescent children appear to be engaging in very little sustained, playful physical activity during their free time outside of school</process>
+    <reference_no>18.00</reference_no>
+    <study_design_and_sample>direct, continuous observation by trained observers to determine the physical activity levels of a sample of young children observations were carried out during school break times, lunch times and physical education lessons and during free time outside of school the sample consisted of 93 girls and 86 boys aged between 5 and 11 years one hundred and seventy eight children were observed during school physical education lessons during all observation periods the main activity of the child was recorded</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="021">
+    <aspect_of_health>morbidity</aspect_of_health>
+    <aspect_of_regeneration>road traffic, traffic volume, traffic density, travel patterns</aspect_of_regeneration>
+    <author>Hillman et al ref:15</author>
+    <health_outcome_effects>child road accidents show clear peaks on weekdays at times when children are going to, or coming from, school only 11% of child road accident fatalities occur on school journeys ... indicates that child road safety is a more diffuse issue loss of independence among children of all ages increased parental time in ferrying children to and from school and other activities</health_outcome_effects>
+    <mediating_factors>children granted greater independence as become more mature and able to judge distances and traffic speed ... however steep rise in road accident death rates at age 15 ...</mediating_factors>
+    <notes>need to consider the impact of advocating the increase of independence and mobility of children when the dominant culture is to restrict children's mobility must establish children's exposure to traffic to determine whether death rates are improving ... Hillman proposes indicators of safety and freedom ... eg the proportion of children of selected ages who are allowed to ... cross roads on their own come home from school on their own use buses on their own cycle on main roads</notes>
+    <process>children's mobility restricted through town-planning, road- and other safety information and, importantly, the priority given to motorists in law psychological development of children may be impaired by curtailment of sense of independence and personal mobility acquisition of personal autonomy promotes esteem children's play territory has been reduced as roads and pavements become more and more dangerous</process>
+    <reference_no>15.00</reference_no>
+    <study_design_and_sample>cross sectional research study on junior school children (7 to 11) and senior school children (11 to 15) surveys in schools in 5 areas in England and in 5 matching areas in Germany in 1990 ... replicating 1971 survey in England explores travel patterns and levels of personal autonomy and the links with parents' perception of the danger to which their children are exposed when they travel alone</study_design_and_sample>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="022">
+    <aspect_of_health>mortality rates, mortality rate, all cause, suicide, cardiovascular</aspect_of_health>
+    <aspect_of_regeneration>unemployment rate, national unemployment rate</aspect_of_regeneration>
+    <author>Brenner ref:30</author>
+    <health_outcomes>all cause mortality in the population increases as unemployment rises suicide increases within a year of increased job loss cardiovascular mortality increases within 3 years of job loss</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes>findings criticised and questioned by authors such as Eyer ref:31 and Gravelle et al ref:32 Shortt ref:33 notes that the authors fail to establish, in precise pathophysiological terms, the mechanism by which economic change induces morbidity</notes>
+    <process_used>poverty leading to poor nutrition; low housing standards; psychological stress, loss of self esteem, social isolation and family discord; behavioural changes such as increased alcohol and tobacco consumption</process_used>
+    <reference_no>30.00</reference_no>
+    <study_details>all cause mortality in the population nb aggregated data, not individual association no comparison with 'control' population England and Wales 1936-1976 follow-up period of 40 years</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="023">
+    <aspect_of_health>psychological morbidity</aspect_of_health>
+    <aspect_of_regeneration>unemployment, re-employment, employment status</aspect_of_regeneration>
+    <author>Morrell et al ref:34</author>
+    <health_outcomes>unemployment is a significant cause of psychological disturbance in young people who were initially employed, not suffering ill-health and psychologically normal combined overall relative risk of psychological disturbance was 1.54 (pandpound; 0.05) re-employment reverses this effect</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process_used>these differences are largely unaffected by demographic attributes, living arrangements, socio-economic status, or immediate labour market experiences differences can be attributed to employment status itself and not predisposing health differences</process_used>
+    <reference_no>34.00</reference_no>
+    <study_details>data from the Australian Longitudinal Survey relative risks of psychological disturbance accompanying unemployment in young people aged 15-24 years two cohorts surveyed annually over 4 years during the mid- to late 1980s, one from the general population (n=8995) and the other from the Employment Service records (n=2403)</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="024">
+    <aspect_of_health>psychological morbidity, psychological health</aspect_of_health>
+    <aspect_of_regeneration>re-employment, exit from unemployment</aspect_of_regeneration>
+    <author>Strandh ref:35</author>
+    <health_outcomes>exit from unemployment to paid labour increases mental well-being ... dependent on contractual situation (see Process) ... exit to a permanent contract means a larger increase in mental well-being than exit to self- or temporary employment exit to university education led to an increase in mental well-being whereas exit to high-school equivalent studies did not increased well-being for those exiting to maternity/ paternity leave ... no significant change for those exiting to sick leave ... and decreased well-being for those exiting to early retirement pension</health_outcomes>
+    <mediating_factors>exit to paid labour could increase mental well-being as it increases life course predictability and provides economic reward different impacts depending on contractual situation could be caused by differences in degrees of life-course predictability among those in paid labour</mediating_factors>
+    <notes></notes>
+    <process_used>the mental well-being outcome of exiting employment is related to the way in which the new status resolves both economic difficulties and the uncertainty faced in the unemployment situation</process_used>
+    <reference_no>35.00</reference_no>
+    <study_details>longitudinal and nationally representative survey of 3,500 unemployed people in Sweden study examines impact of different exit routes from unemployment eg exit to ... permanent employment education welfare state financed status categories eg ... maternity/ paternity leave ... sick leave ... early retirement pension</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="025">
+    <aspect_of_health>mortality rate, cardiovascular, infectious disease, accidents, cancer, psychiatric admissions</aspect_of_health>
+    <aspect_of_regeneration>employment rate</aspect_of_regeneration>
+    <author>Eyer ref:31</author>
+    <health_outcomes>mortality in the population increases during and after periods of prosperity suicide rates and psychiatric admissions rise and fall with the unemployment rate</health_outcomes>
+    <mediating_factors>increased production, income and consumption, the product of contemporary capitalist society, is not homogenous and health-promoting</mediating_factors>
+    <notes>argues against Brenner</notes>
+    <process_used>lowest urban class experiences hardest conditions at the peak of any economic boom stress through ... workers anticipating unemployment, workers being overworked increase in health-damaging behaviours eg cigarettes alcohol</process_used>
+    <reference_no>31.00</reference_no>
+    <study_details>population level mortality nb aggregated data, not individual association</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="026">
+    <aspect_of_health>psychological health, well-being</aspect_of_health>
+    <aspect_of_regeneration>employment status</aspect_of_regeneration>
+    <author>Graetz ref:36</author>
+    <health_outcomes>employed people report significantly lower levels of health disorder than do students and the unemployed highest levels of health risk are among dissatisfied workers and the lowest levels among satisfied workers quality of employment important ... employed people whose quality of work deteriorates reported less well-being ... employed people who became unemployed reported minor improvement in health after redundancy</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process_used>health consequences of employment and unemployment are directly contingent upon the quality of the work psychological health is primarily a function of employment status and quality of employment</process_used>
+    <reference_no>36.00</reference_no>
+    <study_details>data from the Area sample of the Australian Longitudinal Survey sample drawn from all people aged 16-25 years in Australia 4 waves of interview 8998 in wave 1, 6151 in wave 4</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="027">
+    <aspect_of_health>self-esteem</aspect_of_health>
+    <aspect_of_regeneration>employment, unemployment</aspect_of_regeneration>
+    <author>Ritchie ref:37</author>
+    <health_outcomes>all the families who returned to work said their standard of living in employment was better than in unemployment</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process_used>most needed a lengthy period of recovery to restore standard of living to its former level</process_used>
+    <reference_no>37.00</reference_no>
+    <study_details>unstructured in-depth interviews with two-parent families with dependent children ... thirty families interviewed in 1983/4 ... 22 families followed-up at second stage in 1988 follow-up period of 4 years</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="028">
+    <aspect_of_health>psychosocial factors, coronary heart disease</aspect_of_health>
+    <aspect_of_regeneration>job control, work conditions</aspect_of_regeneration>
+    <author>Bosma et al ref:38</author>
+    <health_outcomes>men and women in jobs over which they had low levels of control displayed excess risks of coronary heart disease</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process_used>increasingly likely that psychosocial work characteristics, as defined by job control, job demands and social support, are linked to the risk of coronary heart disease authors suggest that giving employees more say in decisions and variety in tasks could have important benefits for public health</process_used>
+    <reference_no>38.00</reference_no>
+    <study_details>prospective cohort study (Whitehall II) in London 10,308 civil servants aged 35-55 6895 (67%) men and 3413 (33%) women</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="029">
+    <aspect_of_health>psychiatric disorder, heart disease</aspect_of_health>
+    <aspect_of_regeneration>job control, work conditions</aspect_of_regeneration>
+    <author>Bosma, Stansfeld et al ref:39</author>
+    <health_outcomes>men and women with low job control at baseline had 1.5 - 1.8 higher risk of new heart disease during the follow up period</health_outcomes>
+    <mediating_factors>stresses of low job control may be heart disease risk</mediating_factors>
+    <notes>personal characteristics were not confounders. suggest that increasing job control could in principle lower risks of heart disease for all types of employees.</notes>
+    <process_used></process_used>
+    <reference_no>39.00</reference_no>
+    <study_details>longitudinal prospective study of 6895 and 3413 female civil servants in London followed up for an average of 5.3 years.</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="030">
+    <aspect_of_health>working conditions, control, social support, effort reward imbalance</aspect_of_health>
+    <aspect_of_regeneration>job control, work conditions</aspect_of_regeneration>
+    <author>Stansfeld, Fuhrer et al ref:29</author>
+    <health_outcomes>differences in risk of psychiatric disorder between those experiencing beneficial change, compared with those experiencing adverse change in respect of job demands or social support.</health_outcomes>
+    <mediating_factors>social support and control protect mental health high job demands and an effort-reward imbalance are risk factors for future psychiatric disorder</mediating_factors>
+    <notes>suggests that work place interventions in design, organization and management might have positive effects on mental health in working populations.</notes>
+    <process_used></process_used>
+    <reference_no>29.00</reference_no>
+    <study_details>6895 male and 3413 female civil servants, London, 1985-89</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="031">
+    <aspect_of_health>working conditions, control, support, sickness absence</aspect_of_health>
+    <aspect_of_regeneration>job control, work conditions</aspect_of_regeneration>
+    <author>Vahtera et al ref:40</author>
+    <health_outcomes>decreased job control was associated with rates of absenteeism 30% higher than for those with increased job control decreased social support was associated with rates of absenteeism 10% higher than for those with increased support</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process_used>loss of job control was a greater health risk for older, higher income workers deterioration of control when job control was initially low posed strongest risk of sick leave co-worker support especially important for women</process_used>
+    <reference_no>40.00</reference_no>
+    <study_details>530 municipal employees (men and women) 1990-97, Raiso, Finland follow-up period of 7 years</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="032">
+    <aspect_of_health>physiological health, psychological health</aspect_of_health>
+    <aspect_of_regeneration>redundancy</aspect_of_regeneration>
+    <author>Cobb ref:41</author>
+    <health_outcomes>significant changes in norepinephrine excretion and in serum creatinine, serum uric acid and serum cholesterol associated with the stress of job termination</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process_used>norepinephrine excretion and serum creatinine were moderated by psychological defence serum uric acid and serum cholesterol were moderated by social support</process_used>
+    <reference_no>41.00</reference_no>
+    <study_details>interviews conducted 6 months before, and 12 and 24 months after, closure public health nurses collected standardized set of data from ... two companies in urban areas which closed ... control group of four companies not under threat of closure</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="033">
+    <aspect_of_health>cardiovascular, musculoskeletal</aspect_of_health>
+    <aspect_of_regeneration>redundancy, job insecurity, job changes</aspect_of_regeneration>
+    <author>Iversen and Sabroe ref:42</author>
+    <health_outcomes>small increase in hospitalization for unemployed due to cardiovascular disease but decreased rate of admissions for musculoskeletal diseases and accidents</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes>reviewed in Shortt</notes>
+    <process_used>may result from changes in living conditions from a high risk work environment to psychosocial stresses associated with closure, job insecurity, job changes and unemployment</process_used>
+    <reference_no>42.00</reference_no>
+    <study_details>investigation of hospital admissions in 887 men 5 years before and three years after the closure after closure of a shipyard in Denmark control group of 441 men from another shipyard</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="034">
+    <aspect_of_health>mental health</aspect_of_health>
+    <aspect_of_regeneration>redundancy</aspect_of_regeneration>
+    <author>Joelson and Wahlquist ref:43</author>
+    <health_outcomes>stress increased before closure soon after losing work people became bored and despondent</health_outcomes>
+    <mediating_factors>unemployment often meant loss of important identity forming factors unemployment not necessarily a threat to economic independence ie insurance</mediating_factors>
+    <notes></notes>
+    <process_used>former workers did not know what to do with free time ... work as time-structuring proof of competence and knowledge structure of relations</process_used>
+    <reference_no>43.00</reference_no>
+    <study_details>male shipyard workers in Sweden after closure of shipyard 26 former workers and their families interviewed twice a year over two years with in-depth interviews</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="035">
+    <aspect_of_health>physical health, alcohol consumption, sleep disturbance, serum cholestrol, depression, anxiety, stress</aspect_of_health>
+    <aspect_of_regeneration>redundancy</aspect_of_regeneration>
+    <author>Mattiasson, Lindgarde et al ref:44</author>
+    <health_outcomes>excessive mortality due to cardiovascular disease recorded among the unemployed and people with sleep disturbance risk of unemployment increases the serum cholesterol concentration in middle-aged men the increase is more pronounced in those with sleep disturbance those under threat of redundancy showed ... higher levels of serum cholesterol and lower serum calcium levels at follow up ... correlation between scores for sleep disturbance and serum cholesterol concentration ... higher levels of sleep disturbance, depression and anxiety at follow up</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process_used>stress nb no evidence of dietary change to account for changes in serum cholesterol and calcium levels</process_used>
+    <reference_no>44.00</reference_no>
+    <study_details>715 middle-aged male shipyard workers and 261 age-matched male 'control' cases in Malmo, Sweden average follow-up period of 6.7 years</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="036">
+    <aspect_of_health>health</aspect_of_health>
+    <aspect_of_regeneration>redundancy</aspect_of_regeneration>
+    <author>Westin ref:45</author>
+    <health_outcomes>study group had more people on disability pensions</health_outcomes>
+    <mediating_factors>taken as a group, the lives of those who lost their job were greatly affected by this event when compared with the control group the study group had more people on disability pensions, less people in paid work, more women working as housewives</mediating_factors>
+    <notes></notes>
+    <process_used></process_used>
+    <reference_no>45.00</reference_no>
+    <study_details>study looking at individual long-term adaptation to involuntary job-loss prospective study of 85 employees (72 women and 13 men) made redundant when a sardine factory in Norway was shut in 1975 control group: 87 employees (66 women and 21 men) who worked in a sister factory</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="037">
+    <aspect_of_health>GP admissions, hospital admissions, morbidity</aspect_of_health>
+    <aspect_of_regeneration>redundancy</aspect_of_regeneration>
+    <author>Beale and Nethercott ref:46</author>
+    <health_outcomes>20.1% (p&gt;0.01) increase in morbidity from the time when the jobs were secure to the time when job loss was imminent or had occurred</health_outcomes>
+    <mediating_factors>stable population in the area most employees were in stable relationships</mediating_factors>
+    <notes>n/a</notes>
+    <process_used>the increase in morbidity began two years before redundancy, when it became apparent that the economic futures of the families working at the factory were not secure the families of the redundant workers became increasingly dependent upon their doctor; the symptoms with which they presented became increasingly hard to diagnose and treat, or the problems were less clear-cut, their distresses more psychosomatic or their disorders less responsive to simple measures</process_used>
+    <reference_no>46.00</reference_no>
+    <study_details>families of 129 workers (80 men and 49 women) at a meat processing factory in Wiltshire, UK</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="038">
+    <aspect_of_health>GP admissions, hospital admissions, morbidity</aspect_of_health>
+    <aspect_of_regeneration>redundancy</aspect_of_regeneration>
+    <author>Beale and Nethercott ref:47</author>
+    <health_outcomes>increase in morbidity of spouses during the period when jobs were insecure (20%, p&gt;0.05) the men who remained out of work, or who were made redundant again, consulted their GPs 57% more often about 13% more illnesses, were referred to hospital as outpatients 63% more often and visited hospital 208% more frequently than they had when in work</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes>phases of employment must be recognized secure insecure regained (securely or insecurely)</notes>
+    <process_used></process_used>
+    <reference_no>47.00</reference_no>
+    <study_details>families of 153 full-time workers at a meat processing factory in Wiltshire, UK</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="039">
+    <aspect_of_health>physical health, mental health</aspect_of_health>
+    <aspect_of_regeneration>re-employment, secure re-employment, insecure re-employment</aspect_of_regeneration>
+    <author>Glenn et al ref:48</author>
+    <health_outcomes>average physical health worsened by the end of the period average no of visits to health care providers slightly, but not significantly greater at the end of the period mental health improved slightly by end of the period, but not a statistically significant change</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process_used>worsening health could have been partly due to ageing; problems might have been brought to light by health screening; family incomes for existing residents declined during period as new jobs went to incoming workers</process_used>
+    <reference_no>48.00</reference_no>
+    <study_details>274 long-term residents in town in Tennessee, USA 1990-1993 follow-up period of 3 years</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="040">
+    <aspect_of_health>psychological distress</aspect_of_health>
+    <aspect_of_regeneration>re-employment</aspect_of_regeneration>
+    <author>Halvorsen ref:49</author>
+    <health_outcomes>re-employed people did not have less distress than those still unemployed and outside the labour force high risk of distress persistent among those who experienced financial hardship and marital break-up and who had not had previous psychological distress women showed higher distress than men older persons showed higher distress than younger persons recurrently unemployed showed significantly higher distress than the securely re-employed and those outside the labour force but not significantly higher than the insecurely re-employed</health_outcomes>
+    <mediating_factors>insecure re-employment does not represent a 'passage of reintegration' ... uncertainty about the future and fear of job loss can be as distressing as unemployment psychological distress may not be directly linked to unemployment situation but arises from problems in other areas of life ... this suggests that there is a selective process ending in long-term unemployment experienced by persons with psychological distress at the outset of joblessness</mediating_factors>
+    <notes></notes>
+    <process_used>long-term unemployed people reach a plateau of illness ... after 3-6 months people become accustomed to their situation and take up additional activities (not significant at 0.05 level)</process_used>
+    <reference_no>49.00</reference_no>
+    <study_details>sample of 1000 people, aged 20-59, from a two-wave panel study representative of long-term unemployed (6+ months) in Norway in 1991andndash;92</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="041">
+    <aspect_of_health>psychosocial health</aspect_of_health>
+    <aspect_of_regeneration>temporary employment</aspect_of_regeneration>
+    <author>Westerlund, Theorell and Bergstrandouml;m ref:50</author>
+    <health_outcomes>biological markers of psychosocial health did not improve over the 12 months eg rise in serum prolactin decreased dehydro-epiandro-sterone sulphate levels tendencies towards increased alanine aminotransferase, g -glutamyl transferase and diastolic blood pressure</health_outcomes>
+    <mediating_factors>this biological adaptation may be helpful for more vulnerable groups but potentially detrimental to those with good chances on the labour market</mediating_factors>
+    <notes></notes>
+    <process_used>authors suggest that this is a protective adaptation to long-term unemployment against the stress of being in an uncontrollable and helpless situation</process_used>
+    <reference_no>50.00</reference_no>
+    <study_details>21 participants in a project offering temporary alternative employment participants were followed longitudinally for 1 year including a six-month post-participation period</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="042">
+    <aspect_of_health>mental health, depression</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Bolton and Oatley ref:51</author>
+    <health_outcomes>out of the original unemployed group 20 were not in work at follow-up and 5 of those 20 were clinically depressed depression scores at follow-up higher in those who remained unemployed and who had little social contact in the months before losing their jobs</health_outcomes>
+    <mediating_factors>all 5 men who had become clinically depressed had suffered involuntary job loss</mediating_factors>
+    <notes>reviewed in Barnett</notes>
+    <process_used>significant interaction between social support and employment depression likely when people lose a source of social interaction which is important to their sense of worth and have no alternative means of expression social support provides people with a sense of worth and is effective in buffering the negative psychological effects of unemployment</process_used>
+    <reference_no>51.00</reference_no>
+    <study_details>two sets of interviews 6-89 months apart interviews conducted with 49 men, aged between 20 and 59, soon after they lost their job matched sample of 49 employed men</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="043">
+    <aspect_of_health>health behaviour, alcohol, drug use</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Hammer ref:52</author>
+    <health_outcomes>no increase in use of alcohol or drugs in response to stress as a result of unemployment when pre-job loss drinking taken into account</health_outcomes>
+    <mediating_factors>illegal drugs are cheaper and therefore more easily available for young people with economic problems due to unemployment ref:53 authors quote other studies which note a decrease in alcohol consumption due to economic difficulties when unemployed selection to unemployment of men with high alcohol consumption and women with low alcohol consumption</mediating_factors>
+    <notes></notes>
+    <process_used>unemployment may lead to stronger identification with, or joining, marginalised or deviant, subcultures which in turn leads to increased use of cannabis no increase in alcohol consumption among cannabis users as a result of unemployment women with a high probability of unemployment have low education and are recruited to traditional female work ... these women tend to consume less alcohol than other women ... the reverse is true for men</process_used>
+    <reference_no>52.00</reference_no>
+    <study_details>prospective study of a representative sample of nearly 2000 young people, aged 17-20 years, in Norway followed up twice in 1987 and 1989</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="044">
+    <aspect_of_health>mental health</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Hammer ref:54</author>
+    <health_outcomes>unemployment had a weak but significant impact upon mental health problems. while mental health before unemployment explained most of variance in 1989 health unemployment had a significant (p&gt;0.01) negative effect on changes in mental health symptoms ref:55</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes>Murphy and Athanasou ref:55 comment on different experience and reaction of young people to unemployment</notes>
+    <process_used>active job seeking did not seem to moderate the mental health problems experienced by the unemployed. social support and contact with close friends had a moderating effect upon nervous symptoms in women but not in men. unemployed men who were especially involved in illegal activity showed increased nervous symptoms during unemployment.</process_used>
+    <reference_no>54.00</reference_no>
+    <study_details>postal survey of a representative sample of 1,997 young people (17-20 years) in Norway in 1985, 1987 and 1989</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="045">
+    <aspect_of_health>mortality, suicide, cardiovascular disease, cancer</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Martikainen ref:56</author>
+    <health_outcomes>compared with employed men, mortality from accidents and mortality 151% higher, suicide 92% higher, cardiovascular mortality 54% higher and cancer 17% higher for unemployed. Mortality risks increased with longer duration of unemployment.</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process_used>Analysis controlled for social class, education, marital status and initial health status. There was some evidence of health selection effects, but they do not explain away the associations with unemployment found.</process_used>
+    <reference_no>56.00</reference_no>
+    <study_details>Men in the labour force aged 30-54 in 1981 in Finland (2,700,000 person years) follow-up period of five years</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="046">
+    <aspect_of_health>Mortality, all causes, cancer, circulatory diseases, respiratory diseases, accidents, suicide</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Moser ref:57</author>
+    <health_outcomes>mortality at least 20% higher than average, for all causes studied, for men, but not always significant differences no clear pattern for the wives of unemployed men</health_outcomes>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process_used>men unemployed in 1971 more likely to experience further unemployment; downward social mobility, loss of owner occupied housing, marriage breakdown</process_used>
+    <reference_no>57.00</reference_no>
+    <study_details>sample from 1971 population census in Britain 14,765 men seeking work in 1971 and 6,889 women married to men seeking work in 1971 follow-up period of ten years</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="047">
+    <aspect_of_health>stress, depression</aspect_of_health>
+    <aspect_of_regeneration>long term unemployment</aspect_of_regeneration>
+    <author>Frese and Mohr ref:58</author>
+    <health_outcomes>prolonged unemployment or re-unemployment leads to stress unemployed and re-unemployed reported decreased hope for control, increased financial problems and increased depression</health_outcomes>
+    <mediating_factors>is there a time lag between becoming unemployed and developing a psychological disturbance?</mediating_factors>
+    <notes></notes>
+    <process_used>long-term unemployment has an impact on depression over and above the depression that occurs immediately after losing a job</process_used>
+    <reference_no>58.00</reference_no>
+    <study_details>51 unemployed blue-collar workers in Berlin over the age of 45 filled out a questionnaire in 1975 and 1977 participants contacted through employment agencies</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="048">
+    <aspect_of_health>mortality</aspect_of_health>
+    <aspect_of_regeneration>work conditions</aspect_of_regeneration>
+    <author>Bartley ref:24</author>
+    <causal_pathways>those at risk of unemployment more likely to accept working conditions damaging to health</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <ref_long_study>Yes</ref_long_study>
+    <reference_no>24.00</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="049">
+    <aspect_of_health>psychological health, anxiety, depression, self reported health, heart disease</aspect_of_health>
+    <aspect_of_regeneration>job insecurity</aspect_of_regeneration>
+    <author>Wilkinson ref:25</author>
+    <causal_pathways>job insecurity which affects people before they become unemployed.</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <ref_long_study>Yes</ref_long_study>
+    <reference_no>25.00</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="050">
+    <aspect_of_health>selection effects, physical health, mental health</aspect_of_health>
+    <aspect_of_regeneration>long term unemployment</aspect_of_regeneration>
+    <author>Schwefel ref:59</author>
+    <causal_pathways>selection criteria of employers; selection particularly strong for foreign workers and those in physically demanding jobs depression caused by long term unemployment (especially linked to financial problems) leads to feeling of non-control</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <ref_long_study>Some - mainly in German</ref_long_study>
+    <reference_no>59.00</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="051">
+    <aspect_of_health>mortality</aspect_of_health>
+    <aspect_of_regeneration>unemployment rate</aspect_of_regeneration>
+    <author>Shortt ref:33</author>
+    <causal_pathways>existing literature is deficient in many areas but is suggests a pathological impact for unemployment on children and families of unemployed highest risk groups for adverse effects of unemployment appear to be middle-aged men, youth who have recently left school, the economically marginal such as women attempting re-entry to the labour force and children in families in which the primary earner is unemployed convincing statements about the health impact of unemployment need to be backed up with data which covers a very long time period ... however meaning of employment within society is also important and will change over long time periods policy must not medicalise unemployment ... it is a social process not a disorder suffered by unfortunate individuals policy must not normalise unemployment by making it uncomfortable ... comfort is valid as a short-term goal ... abolition of unemployment socially and individually is the long-term intent employment is also a major cause of mortality and morbidity (see Graetz ref:36)</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <ref_long_study>Yes</ref_long_study>
+    <reference_no>33.00</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="052">
+    <aspect_of_health>psychological health, health selection</aspect_of_health>
+    <aspect_of_regeneration>work conditions</aspect_of_regeneration>
+    <author>Barnett ref:28</author>
+    <causal_pathways>effects mediated by: degree of satisfaction with previous employment; conditions in labour market; unemployment benefits to offset financial stress; practices in specific cultural groups; social support; gender involuntary dismissal more likely for those with mental distress and medical diagnoses, but mediated by labour market conditions</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <ref_long_study>yes</ref_long_study>
+    <reference_no>28.00</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="053">
+    <aspect_of_health>unemployment rate, mortality rate</aspect_of_health>
+    <aspect_of_regeneration>work conditions</aspect_of_regeneration>
+    <author>Jin et al ref:60</author>
+    <causal_pathways>n/a</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <ref_long_study>yes</ref_long_study>
+    <reference_no>60.00</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="054">
+    <aspect_of_health>stress, physiological health, cholestrol</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Bartley ref:24</author>
+    <causal_pathways>poverty and financial anxiety; stigma and social isolation; stressful life events due to debt; effects on diet and home environment stress related physiological changes such as raised cholesterol concentration and lowered immunity.</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <ref_long_study>yes</ref_long_study>
+    <reference_no>24.00</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="055">
+    <aspect_of_health>health</aspect_of_health>
+    <aspect_of_regeneration>work conditions, job insecurity, low pay</aspect_of_regeneration>
+    <author>Bartley ref:24</author>
+    <causal_pathways>low pay; exposure to hazards; job insecurity.</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <ref_long_study></ref_long_study>
+    <reference_no>24.00</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="056">
+    <aspect_of_health>physical health, mental health</aspect_of_health>
+    <aspect_of_regeneration>unemployment, working conditions</aspect_of_regeneration>
+    <author>Acheson et al ref:23 (p45)</author>
+    <causal_pathways>unemployment and stressful or hazardous employment (working environments) are potentially major risks to health for the population of working age and their families examples from Scandinavia suggest that good practice should be promoted by explicit leadership from national level</causal_pathways>
+    <outcomes_rel_unemployment>unemployment may lead to an improvement in health for a small minority for the majority unemployment tends to have adverse effects on physical and mental health</outcomes_rel_unemployment>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="057">
+    <aspect_of_health>health inequalities</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Lawless et al ref:61 Nickell and Bell ref:62 Payne and Payne ref:63</author>
+    <causal_pathways>people lower down the social scale are hit hardest</causal_pathways>
+    <outcomes_rel_unemployment>unemployment is an important determinant of inequalities in the health of adults of working age in Britain</outcomes_rel_unemployment>
+    <reference_no>61,62,63</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="058">
+    <aspect_of_health>psychological health, depression, anxiety, suicide</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Bartley ref:24 Shortt ref:33</author>
+    <causal_pathways></causal_pathways>
+    <outcomes_rel_unemployment>unemployed people have lower levels of psychological well-being, ranging from symptoms of depression and anxiety to self-harm and suicide</outcomes_rel_unemployment>
+    <reference_no>24,33</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="059">
+    <aspect_of_health>morbidity, mortality</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Bethune ref:64</author>
+    <causal_pathways></causal_pathways>
+    <outcomes_rel_unemployment>unemployment carries a higher risk of morbidity and premature mortality Longitudinal Study covering England and Wales mortality for all major causes was consistently higher than average for unemployed men among younger men mortality from injuries and poison in</outcomes_rel_unemployment>
+    <reference_no>64</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="060">
+    <aspect_of_health>death</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Moser et al ref:65</author>
+    <causal_pathways></causal_pathways>
+    <outcomes_rel_unemployment>wives of unemployed men have been found to have an excess risk of death</outcomes_rel_unemployment>
+    <reference_no>65</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="061">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Moylan et al ref:66 White ref:67</author>
+    <causal_pathways>cohort studies of people entering unemployment show that their income was cut by a half as they switched from wages to social security benefit</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <reference_no>66,67</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="062">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>unemployment, job changes</aspect_of_regeneration>
+    <author>Daniel ref:68</author>
+    <causal_pathways>largest British cohort study in the 1980s showed that two thirds of unemployed people received a week, or less, notice only one in ten received redundancy payment two thirds were under 35 and most came from manual or lower service occupations</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <reference_no>68</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="063">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Piachaud ref:69</author>
+    <causal_pathways>families with an unemployed head of household are at the highest risk of poverty</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <reference_no>69</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="064">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Berthoud ref:70 White ref:71 Bradshaw ref:72</author>
+    <causal_pathways>studies of the adequacy of state benefits identify unemployed households with dependent children as being particularly badly off</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <reference_no>70,71,72</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="065">
+    <aspect_of_health>morbidity, mortality, health selection</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Acheson et al ref:23 (p46)</author>
+    <causal_pathways>some of the excess morbidity and mortality associated with unemployment may be a result of people in poorer health being more likely to become unemployed there is evidence to suggest that unhealthy people are selected into unemployment</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <reference_no>23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="066">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Montgomery et al ref:73</author>
+    <causal_pathways>unemployment is associated with lower levels of educational attainment and other skills</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <reference_no>73</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="067">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>human capital, skills</aspect_of_regeneration>
+    <author>Wadsworth ref:74</author>
+    <causal_pathways>lack of skills may be a barrier to obtaining employment which can reinforce earlier or other disadvantage</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <reference_no>74</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="068">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>human capital, skills</aspect_of_regeneration>
+    <author>Sly et al ref:75</author>
+    <causal_pathways>Labour Force Survey Data 41% of disabled people of working age have no educational qualifications compared with 18% non-disabled people</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <reference_no>75</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="069">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>The Carnegie United Kingdom Trust ref:76</author>
+    <causal_pathways>unemployment is high amongst young people - rates of unemployment among people up to the age of 25 years are about twice as high as for all adult workers</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <reference_no>76</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="071">
+    <aspect_of_health>violence, alcohol consumption, physical health, psychological health</aspect_of_health>
+    <aspect_of_regeneration>unemployment</aspect_of_regeneration>
+    <author>Ratner ref:83</author>
+    <causal_pathways>Wives at highest risk of abuse were those: separated from their husbands in the previous year; aged 18-44 years; in relatively new relationships; whose husbands were unemployed, in school or working part-time.  Physically and psychologically abused wives had more somatic complaints, higher levels of anxiety and insomnia, greater social dysfunction and more symptoms of depression than non-abused wives. alcohol dependency was associated with abuse; 16.3% of physically abused and 11.3% of psychologically abused wives were alcohol-dependent, compared to 2.4% of non-abused wives.</causal_pathways>
+    <outcomes_rel_unemployment>to determine the incidence and type of wife abuse in relation to mental health status, a survey was undertaken in a community-based sample of wives. The incidence rate of physical abuse was 10.6%, psychological abuse 13.1%. Nearly all physically abused wives were psychologically abused. correlation between physical abuse of women and unemployment for male partner</outcomes_rel_unemployment>
+    <reference_no>83</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="072">
+    <aspect_of_health>mortality</aspect_of_health>
+    <aspect_of_regeneration>unemployment, working conditions</aspect_of_regeneration>
+    <author>Bartley ref:24</author>
+    <causal_pathways>those at risk of unemployment more likely to accept working conditions damaging to health</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study>Yes</ref_long_study>
+    <reference_no>24</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="073">
+    <aspect_of_health>mortality, sickness absence, pain, cardiovascular disease, physical health</aspect_of_health>
+    <aspect_of_regeneration>working conditions, job control, job demands</aspect_of_regeneration>
+    <author>Wilkinson and Marmot ref:25</author>
+    <causal_pathways>stress lack of control over work also low control exacerbated by high demands of work</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study>?</ref_long_study>
+    <reference_no>25</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="074">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>job insecurity</aspect_of_regeneration>
+    <author>Gregg et al ref:84, Martin ref:85, Pollert86 and Prescott-Clarke ref:87 in Acheson et al ref:23</author>
+    <causal_pathways>Over the past two decades there have been great changes in the nature of work - greater insecurity through increased labour market flexibility and deregulation of employment contracts all sections of workforce affected by this trend - lower end of the labour more affected</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>84,85,86,87,23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="075">
+    <aspect_of_health>stress, psychosocial health, psychological health</aspect_of_health>
+    <aspect_of_regeneration>working conditions</aspect_of_regeneration>
+    <author>Acheson et al ref:23 (p48)</author>
+    <causal_pathways>growing recognition of impact of stressful working conditions on health stress at work often equated with pressure of work</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="076">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>job demands, job environment, working conditions</aspect_of_regeneration>
+    <author>Health and Safety Executive ref:88 in Acheson et al ref:23</author>
+    <causal_pathways>people in higher socioeconomic groups report self-perceived pressure of work most frequently</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>88,23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="077">
+    <aspect_of_health>psychosocial health</aspect_of_health>
+    <aspect_of_regeneration>psychosocial work environment</aspect_of_regeneration>
+    <author>Hemingway and Marmot ref:89 in Acheson et al ref:23</author>
+    <causal_pathways>evidence of health-related harm is associated more with specific psychosocial factors eg an imbalance between psychological demands and control and lack of control at work</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>89,23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="078">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>job demands, job control, working conditions</aspect_of_regeneration>
+    <author>Marmot et al ref:90 in Acheson et al ref:23</author>
+    <causal_pathways>exposure to high demand and low control is more common among lower socioeconomic groups</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>90,23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="079">
+    <aspect_of_health>coronary heart disease, musculoskeletal, mental health, sickness absence</aspect_of_health>
+    <aspect_of_regeneration>working conditions, job demands, job control</aspect_of_regeneration>
+    <author>Hemingway and Marmot ref:89, Marmot et al ref:90, Hemingway et al91, Emdad et al ref:92, Siegrist93 and Karasek and Theorell ref:26 in Acheson et al ref:23</author>
+    <causal_pathways>studies from Europe and the US show how an imbalance between psychological demands and control, or a lack of control, at work are associated with increased risk of coronary heart disease, musculoskeletal disorders, mental illness and sickness absence</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>89,90,91,92,93,26,23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="080">
+    <aspect_of_health>psychosocial health</aspect_of_health>
+    <aspect_of_regeneration>working conditions</aspect_of_regeneration>
+    <author>Karasek ref:94 in Acheson et al ref:23</author>
+    <causal_pathways>changes in workplace can bring improvement in psychosocial health eg increase the variety and understanding of the different tasks in a production process workforce participation in identification of problems and their solutions altering shift patterns to ma</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>94,23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="081">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration></aspect_of_regeneration>
+    <author>WHO ref:95 in Acheson et al ref:23</author>
+    <causal_pathways>successful interventions follow examples of good management practice</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>95,23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="082">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>working conditions</aspect_of_regeneration>
+    <author>Health and Safety Executive ref:96 in Acheson et al ref:23</author>
+    <causal_pathways>endorsed by current HSE guidance</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>96,23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="083">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration></aspect_of_regeneration>
+    <author>Division of Mental Health ref:97 in Acheson et al ref:23</author>
+    <causal_pathways>enhancement of management skills in the current and future workforce is likely to bring about a culture and a practice which is amenable to health-promoting work organisation and practices good management practice may be taught during school years especially</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>97,23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="084">
+    <aspect_of_health>psychosocial health</aspect_of_health>
+    <aspect_of_regeneration>working conditions</aspect_of_regeneration>
+    <author>Health and Safety Executive ref:98 in Acheson et al ref:23</author>
+    <causal_pathways>extend current HSE campaign 'Good Health is Good Business' to include psychosocial health</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study></ref_long_study>
+    <reference_no>98,23</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="085">
+    <aspect_of_health>mental health</aspect_of_health>
+    <aspect_of_regeneration>employment quality, satisfaction</aspect_of_regeneration>
+    <author>Graetz ref:36</author>
+    <causal_pathways>health consequences of employment and unemployment are directly contingent upon the quality of the work the benefits of employment are confined to those, albeit a vast majority, who manage to find a satisfying job those who do not find a satisfying job report the highest levels of disorder adverse consequences of job loss are confined to those who were satisfied by their former jobs NB because the majority of people in work are satisfied with their job the overall effect of employment is higher well-being ref:55 using case rates associated with particular GHQ scores respondents able to gain employment recorded a case rate 23% lower than those of peers who remained unemployed</causal_pathways>
+    <outcomes_rel_work></outcomes_rel_work>
+    <ref_long_study>yes</ref_long_study>
+    <reference_no>36</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="086">
+    <aspect_of_health>stress</aspect_of_health>
+    <aspect_of_regeneration>housing renewal, doors, windows, kitchen, nathroom, redecoration, central heating</aspect_of_regeneration>
+    <author>Allen ref:105</author>
+    <health_outcomes>Health outcome/ effects  in some cases the process of housing renewal was stressful and damaging to health while in others it was enjoyable and rewarding the following outcomes were reported stress related conditions ... aggravation of psoriasis ... tension in inter-family relationships ... nervousness ... weight loss also positive outcomes eg ... happiness ... excitement</health_outcomes>
+    <mediating_factors>personal control over the process of housing renewal was very important different from the generally accepted passive role of the tenant there is a potential for conflict if tenants have greater control ... home improvement may be harder to manage and to administer ... capital programmes may be more difficult to plan</mediating_factors>
+    <notes>nature of the tenant/landlord relationship in the social rented sector is very important ways to maximise benefits of housing renewal for tenants ... offer choice of contractor from an approved list ... encourage direct relationship with those carrying out the work ... involve tenants in the details of the renewal ... consider whether or not the work has to be carried out during the tenancy or why it must be done at a particular time ... especially important for elderly residents</notes>
+    <process_used>people who were able to establish control over what was happening had a more positive experience also depended on how much control the individual wanted and, crucially, its negotiability opportunity to effect a change in one aspect of life, such as the home environment means that it can be seen as possible in another through raised self-esteem and confidence</process_used>
+    <reference_no>105.00</reference_no>
+    <study_details>local authority peripheral estate which was undergoing renewal through Estate Action focus on one phase where 110 homes were about to undergo refurbishment with, in some cases, the residents remaining in their home survey of more than half involved - before and after andndash; gave descriptive information main focus on in-depth interviews creating interpretative biographies with 16 of survey respondents</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="087">
+    <aspect_of_health>health</aspect_of_health>
+    <aspect_of_regeneration>social inclusion, tenure, type</aspect_of_regeneration>
+    <author>Atkinson and Kintrea ref:107</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>renters and owner-occupiers inhabit different social worlds</mediating_factors>
+    <notes>NB small sample no clear statement on the connection between owner-occupation and regeneration of communities assumed that owner-occupiers provide a tangible alternative world of jobs, education and stable family life in the midst of social exclusion two groups of owner-occupiers ... 'would-be locals' and 'metropolitan owners' important to 'pepperpot' different tenures ... this may make marketing more difficult but is more conducive to interaction organisations concerned with regeneration should focus more on the needs of local businesses and appropriate commercial property development in order to assist community life</notes>
+    <process_used>owner-occupiers have limited influence on social networks among housing estate residents and limited influence on patterns of social inclusion residents isolated from mainstream society owner-occupiers inhabit different social worlds to renters physical proximity lead to limited social contact between two groups renters draw some benefit from access to new social networks aspirations of 'would-be locals' are not met lack of up-market owner accommodation to ensure they stay in estate/community shortage of venues for interaction in local neighbourhoods which are attractive to more affluent mobile groups and low quality and poor availability of amenities</process_used>
+    <reference_no>107.00</reference_no>
+    <study_details>measure the potential of owner-occupiers to influence social networks, and thus social inclusion, among housing estate residents sampling criteria: renters and owners should be living on the same streets and not physically separated by main roads, open spaces or other barriers residents completed diaries which described their movement outside their homes for a period of seven consecutive days thirty-eight households (27 owners and 11 renters, 49 individuals in total) on three Scottish estates ... tenants and owner-occupiers in-depth interviews to supplement the diaries</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="088">
+    <aspect_of_health>chest related, breathing problems, gastric problems, injuries, psychosocial health</aspect_of_health>
+    <aspect_of_regeneration>rehousing</aspect_of_regeneration>
+    <author>Collard ref:106</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>40% reported that the most useful help at resettlement would be financial assistance in moving, furnishing and decorating new home delays in assessment and receipt of housing benefit and difficulties in applying for and receiving benefits to which they are entitled detrimental effect on children's schooling (45% of households had children who had missed periods of schooling due to homelessness) detrimental effect on access to primary care and for children reduced access to developmental, medical and dental checks</mediating_factors>
+    <notes>project's own data suggest that the families who took part were worse off than the most deprived groups in also ... language and literacy problems</notes>
+    <process_used>overcrowding, poor diet, lack of sleep and lack of space the properties the families moved from, and into, were in a poor state of structural repair especially in PLAf 72% faced financial difficulties in moving to new home andndash; 57% needed a loan high levels of household mobility racism '... continuum of poor housing, repeated enforced mobility, and thus worsening health ... continue[s] unless there is effective intervention at some stage in the process ...'</process_used>
+    <reference_no>106.00</reference_no>
+    <study_details>Tower Hamlets (London) 47 Bangladeshi and 26 Somali women and men giving access to ... 73 recently re-housed families and 390 people two questionnaires administered three and twelve months after resettlement questionnaire sent to GPs</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="089">
+    <aspect_of_health>mental health</aspect_of_health>
+    <aspect_of_regeneration>services, access, improvement</aspect_of_regeneration>
+    <author>Dalgard and Tambs ref:108</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <notes>n/a</notes>
+    <process_used>hypothesised link with reduced environmental stress and improved opportunities for social interaction</process_used>
+    <reference_no>108.00</reference_no>
+    <study_details>longitudinal 10 year follow up of 503 residents in suburb of Oslo, Sweden</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="090">
+    <aspect_of_health>diet, nutrition</aspect_of_health>
+    <aspect_of_regeneration>homelessness, rough sleepers, temporary accommodation</aspect_of_regeneration>
+    <author>Evans and Dowler ref:109</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>people lose budgeting skills ... can take two years to be rehoused food provided by soup kitchens may be filling but it can lack variety and have a high fat content young age of women in sample means that they would be subject to Social Security Act 1988 making it difficult for young people to obtain benefits</mediating_factors>
+    <notes>significant difference between age of subject and accommodation status (p&gt;0.009) 15-24 years old predominantly rough sleepers 25-43 years old rough sleepers and flat dwellers 35-64 years old - 58% in flats 65 years old - 95% in flats</notes>
+    <process_used>43% of sample were in flats or bedsits ... likely that they had recently been rehoused and were not receiving adequate level of support in coping with changed environment the food which is available in day centres and soup runs is dependent on what has been donated the quality of food which is supplied is not addressed in policies which support the work of day centres and food kitchens</process_used>
+    <reference_no>109.00</reference_no>
+    <study_details>sample population represents 11% of total potential population accessing the places of contact 348 males and 75 females (n=423) age range 15-76, median 34 years of age</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="091">
+    <aspect_of_health>mental health, anxiety, depression, self esteem</aspect_of_health>
+    <aspect_of_regeneration>housing renewal, fear of crime</aspect_of_regeneration>
+    <author>Halpern ref:110</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <notes>n/a</notes>
+    <process_used>reduced concern about safety risks</process_used>
+    <reference_no>110.00</reference_no>
+    <study_details>longitudinal study of residents before and after renewal</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="092">
+    <aspect_of_health>aches, pains, sore throat, tiredness, temper tantrums</aspect_of_health>
+    <aspect_of_regeneration>housing, improvement, renewal, central heating, mould, dampness</aspect_of_regeneration>
+    <author>Hopton and Hunt ref:111</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>high rate of drop out ... people's desire to move away was a characteristic of the area study carried out while poll tax in operation andndash; residents were suspicious of official surveys far fewer people than expected had Heat with Rent schemes installed relationship between poor housing and health is independent of income, smoking, unemployment, cooking and washing facilities, and the presence of pets presence of children under 5 (t=1.95; p&gt;0.05) and worsening financial situation (t=2.50; p&gt;0.01) were the only significant predictors of change on reporting aches and pains</mediating_factors>
+    <notes>studies of rehousing have failed to find any dramatic consequences in terms of health, either physical or mental since gains in satisfaction with housing tend to be offset by adversely perceived changes in social networks and social support rehousing may require considerable adaptation to the new location and impose some strain on the new residents</notes>
+    <process_used>improvements in housing conditions may increase resistance to illness but may be insufficient to produce health gain isolated improvements to housing are insufficient to ameliorate symptoms in areas of multiple disadvantage</process_used>
+    <reference_no>111.00</reference_no>
+    <study_details>longitudinal study to evaluate the effects of an improved heating system on the symptoms of children living in a peripheral housing estate cohort of 251 children from an original sample of 977 households interviews conducted in residents homes prior to installation of heating system (time 1), approximately 6 months later (time 2) and approximately 12 months after first interview (time 3)</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="093">
+    <aspect_of_health>self-reported health, mental health, depression, metabolic disorders</aspect_of_health>
+    <aspect_of_regeneration>rehousing</aspect_of_regeneration>
+    <author>Smith et al ref:104</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>rehousing can be particularly depressing for women and older people</mediating_factors>
+    <notes>medical priority rehousing means that a large proportion of social sector housing (70% at time of writing) is deliberately health selective social role for housing in British has fostered the assumption that rehousing can be an effective health intervention and that residential change can alleviate suffering, cure illness, enhance access to care or enhance quality of life</notes>
+    <process_used>psychological distress associated with residential change especially where prompted by reasons beyond the mover's control ... movers were allowed choice over location of new property and were able to secure better access to close relatives for their social support networks</process_used>
+    <reference_no>104.00</reference_no>
+    <study_details>800 randomly selected medical priority applicants for council housing in three metropolitan districts in England 836 h/holds interviewed (8% of all MP applicants in the 3 districts) main interviews with applicants who mobilised the rehousing request ... so collected information on 1046 people</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="094">
+    <aspect_of_health>psycho-social health</aspect_of_health>
+    <aspect_of_regeneration>housing renewal, refurbishment</aspect_of_regeneration>
+    <author>Wadham ref:112</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <notes>n/a</notes>
+    <process_used>In view of the study design the changes were probably due to the fact that the populations before and after the refurbishment were different</process_used>
+    <reference_no>112.00</reference_no>
+    <study_details>unpublished study before and after refurbishment of estate this study is not a longitudinal study of the same population ... the people who were moved out were not followed up ... thus before and after comparisons do not show individual health impact</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="095">
+    <aspect_of_health>chronic illness</aspect_of_health>
+    <aspect_of_regeneration>homelessness</aspect_of_regeneration>
+    <author>Bardsley et al ref:100 (p23)</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>chronic illness is as much a problem for homeless people as are episodes of acute illness</process_used>
+    <reference_no>100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="096">
+    <aspect_of_health>GP registration</aspect_of_health>
+    <aspect_of_regeneration>homelessness, ethnic minorities</aspect_of_regeneration>
+    <author>Health Action for Homeless People ref:113 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>low rates of GP registration among black people and low levels of satisfaction with GP and primary care services</process_used>
+    <reference_no>113,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="097">
+    <aspect_of_health>health service usage</aspect_of_health>
+    <aspect_of_regeneration>homelessness, ethnic minorities</aspect_of_regeneration>
+    <author>Hinton in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>ethnic minorities form a large part of the homeless population black and ethnic minorities are the fastest growing group among the hostel population ref:114</mediating_factors>
+    <process_used>ethnic minorities less likely to use traditional day-centres or shelters for homeless people and are more likely to be living with friends and relatives or in insecure tenancies and squats</process_used>
+    <reference_no>100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="098">
+    <aspect_of_health>service use</aspect_of_health>
+    <aspect_of_regeneration>homelessness, ethnic minorities</aspect_of_regeneration>
+    <author>Susser et al ref:115 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>black and ethnic minority groups are often not identified at the point of service use racism on the streets and within institutions means there are additional barriers and dangers for these homeless people</process_used>
+    <reference_no>115,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="099">
+    <aspect_of_health>respiratory illness, gastrointestinal illness,</aspect_of_health>
+    <aspect_of_regeneration>homelessness, families</aspect_of_regeneration>
+    <author>Bardsley et al ref:100 (p23)</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>sharing facilities with other families eg kitchens, bathrooms, toilets difficult to access, and store, fresh food multiplicity of social problems has parallels in 'co-morbidity' of multiple health problems</process_used>
+    <reference_no>100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="100">
+    <aspect_of_health>aggression, accidents, infectious disease</aspect_of_health>
+    <aspect_of_regeneration>homelessness, families</aspect_of_regeneration>
+    <author>Bardsley et al ref:100 (p24)</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>living in cramped space eg hotel room</process_used>
+    <reference_no>100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="101">
+    <aspect_of_health>immunisation rates</aspect_of_health>
+    <aspect_of_regeneration>homelessness, families</aspect_of_regeneration>
+    <author>in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>mobility creates difficulties of tracking and maintaining contact, ensuring good uptake of immunisation rates in areas of London</mediating_factors>
+    <process_used>homeless families are less likely to be registered with a GP</process_used>
+    <reference_no>100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="102">
+    <aspect_of_health>hospital admissions</aspect_of_health>
+    <aspect_of_regeneration>homelessness, health services</aspect_of_regeneration>
+    <author>Morris ref:116, Williams and Allen ref:117 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>homeless people can be lost to follow up after discharge</process_used>
+    <reference_no>116,117,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="103">
+    <aspect_of_health>service usage</aspect_of_health>
+    <aspect_of_regeneration>homelessness, health services</aspect_of_regeneration>
+    <author>North et al, Shelter ref:118 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>each 'inappropriate' visit estimated to cost andpound;28 over and above an average cost for an 'appropriate' attendance</process_used>
+    <reference_no>118,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="104">
+    <aspect_of_health>health care</aspect_of_health>
+    <aspect_of_regeneration>homelessness, health services</aspect_of_regeneration>
+    <author>Scheuer ref:119, Black et al ref:120 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>barriers to good primary and preventative services homeless people often present at later and more severe stages of ill health unplanned admission rates to hospital are three times greater among homeless groups</process_used>
+    <reference_no>119,120,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="105">
+    <aspect_of_health>GP registration</aspect_of_health>
+    <aspect_of_regeneration>homelessness, health services</aspect_of_regeneration>
+    <author>Williams and Allen ref:117 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>low expectations of health status and health services in general</process_used>
+    <reference_no>117,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="106">
+    <aspect_of_health>hospital admissions</aspect_of_health>
+    <aspect_of_regeneration>homelessness, health services</aspect_of_regeneration>
+    <author>Stern et al in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>25% of people sleeping rough and in supportive housing projects reported an in-patient hospital stay in the previous year in comparison with 9% of the population as a whole</process_used>
+    <reference_no>121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="107">
+    <aspect_of_health>mental illness, alcohol consumption</aspect_of_health>
+    <aspect_of_regeneration>homelessness</aspect_of_regeneration>
+    <author>Bines ref:122 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>mental health problems may go hand-in-hand with alcohol related problems particularly for single homeless people</process_used>
+    <reference_no>122,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="108">
+    <aspect_of_health>mental illness</aspect_of_health>
+    <aspect_of_regeneration>homelessness</aspect_of_regeneration>
+    <author>Goldberg et al ref:123 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>the following groups are more likely to suffer mental illness than the general population and are associated with a risk of homelessness people who are socially disadvantaged, the unemployed and those living in overcrowded or poor housing</mediating_factors>
+    <process_used>mental illness exacerbated by poor housing and other factors</process_used>
+    <reference_no>123,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="109">
+    <aspect_of_health>mental illness</aspect_of_health>
+    <aspect_of_regeneration>homelessness</aspect_of_regeneration>
+    <author>Lamb and Lamb ref:124 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>where people suffer mental illness their condition becomes worse as homelessness continues</process_used>
+    <reference_no>124,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="110">
+    <aspect_of_health>mental illness</aspect_of_health>
+    <aspect_of_regeneration>homelessness</aspect_of_regeneration>
+    <author>Leff in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>people who are most at risk of becoming homeless are those who become acutely ill and have restricted access to in-patient stay</mediating_factors>
+    <process_used>hospital closure which results in restricted access to in-patient stay</process_used>
+    <reference_no>100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="111">
+    <aspect_of_health>ageing</aspect_of_health>
+    <aspect_of_regeneration>homelessness</aspect_of_regeneration>
+    <author>Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>rigid application of the state retirement age as the threshold for assuming vulnerability disregards effects of homelessness</process_used>
+    <reference_no>100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="112">
+    <aspect_of_health>health</aspect_of_health>
+    <aspect_of_regeneration>homelessness, refugees, asylum seekers</aspect_of_regeneration>
+    <author>Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>problems may be acute at time of arrival early preventative work can avoid problems becoming intractable or recurring at a later stage refugees have few resources and suffer considerable material deprivation whilst facing uncertain futures</mediating_factors>
+    <process_used>separation of families adjusting to new and alien surroundings coping with trauma of past events</process_used>
+    <reference_no>100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="113">
+    <aspect_of_health>physical health, mental health</aspect_of_health>
+    <aspect_of_regeneration>homelessness, refugees, asylum seekers</aspect_of_regeneration>
+    <author>Clinton-Davis and Fassil ref:125 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>compounded by cultural and language barriers which hinder access to appropriate health care</mediating_factors>
+    <process_used>experienced traumas which precipitated flight, or while fleeing, to host country</process_used>
+    <reference_no>125,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="114">
+    <aspect_of_health>physical health, mental health</aspect_of_health>
+    <aspect_of_regeneration>homelessness, rough sleepers</aspect_of_regeneration>
+    <author>Bines ref:122 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>n/a</process_used>
+    <reference_no></reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="115">
+    <aspect_of_health>service usage</aspect_of_health>
+    <aspect_of_regeneration>homelessness, rough sleepers</aspect_of_regeneration>
+    <author>Shiner ref:126 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>homeless people do value their health and health services would be used more and earlier if they were presented in a sensitive and accessible manner</mediating_factors>
+    <process_used>dominant street culture makes use of mainstream services unlikely mainstream services (GPs and AandE departments) seen as stigmatising</process_used>
+    <reference_no>126,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="116">
+    <aspect_of_health>physical health, physiological health</aspect_of_health>
+    <aspect_of_regeneration>homelessness, single</aspect_of_regeneration>
+    <author>Bardsley et al ref:100 (p28), Barry et al ref:127 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>n/a</process_used>
+    <reference_no>100,127,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="117">
+    <aspect_of_health>physical health, physiological health</aspect_of_health>
+    <aspect_of_regeneration>homelessness, temporary accommodation</aspect_of_regeneration>
+    <author>Bines ref:122 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>n/a</process_used>
+    <reference_no>121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="118">
+    <aspect_of_health>accidents</aspect_of_health>
+    <aspect_of_regeneration>homelessness, temporary accommodation</aspect_of_regeneration>
+    <author>BMA ref:103 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>lack of space and cooking apparatus eg kettles at floor level</process_used>
+    <reference_no>121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="119">
+    <aspect_of_health>gastroenteritis</aspect_of_health>
+    <aspect_of_regeneration>homelessness, temporary accommodation</aspect_of_regeneration>
+    <author>BMA ref:103 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>poor, or absent, kitchen facilities mean that people have to rely on food from cafes and takeaways</process_used>
+    <reference_no>121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="120">
+    <aspect_of_health>skin problems, chest complaints</aspect_of_health>
+    <aspect_of_regeneration>homelessness, temporary accommodation</aspect_of_regeneration>
+    <author>BMA ref:103 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>normal child development impaired through lack of space for safe play</process_used>
+    <reference_no>121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="121">
+    <aspect_of_health>psychosocial health</aspect_of_health>
+    <aspect_of_regeneration>homelessness, temporary accommodation</aspect_of_regeneration>
+    <author>BMA ref:103 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>stress from living in poor and cramped spaces</process_used>
+    <reference_no>121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="122">
+    <aspect_of_health>rape, HIV</aspect_of_health>
+    <aspect_of_regeneration>homelessness, women</aspect_of_regeneration>
+    <author>Fisher et al ref:128, Newton et al ref:129 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>n/a</process_used>
+    <reference_no>128,129,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="123">
+    <aspect_of_health>healthcare</aspect_of_health>
+    <aspect_of_regeneration>homelessness, young people</aspect_of_regeneration>
+    <author>Bines ref:122 in Best</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>all people who are homeless are at particular disadvantage unless special service provision is designed for them</process_used>
+    <reference_no>122</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="124">
+    <aspect_of_health>HIV, Hepatitis, STDs</aspect_of_health>
+    <aspect_of_regeneration>homelessness, young people</aspect_of_regeneration>
+    <author>in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>younger homeless people may be involved in intravenous drug use or prostitution</process_used>
+    <reference_no>100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="125">
+    <aspect_of_health>cancer</aspect_of_health>
+    <aspect_of_regeneration>housing</aspect_of_regeneration>
+    <author>Barker et al ref:130 in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>diet? socioeconomic staus?</mediating_factors>
+    <process_used>linked with quality of housing in childhood</process_used>
+    <reference_no>130,99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="126">
+    <aspect_of_health>chest problems</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Artblaster and Hawtin ref:131 in Best121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>debris of house dust mite especially its faecal pellets</process_used>
+    <reference_no>131,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="127">
+    <aspect_of_health>asthma, rhinitis, alveolitis</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Artblaster and Hawtin ref:131 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>condensation is almost pure water water from penetrating, or rising, damp contains salts and is not so conducive to mould growth</mediating_factors>
+    <process_used>condensation encourages the growth of fungal spores</process_used>
+    <reference_no>131,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="128">
+    <aspect_of_health>chronic sickness</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Boardman132;133 in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>group most vulnerable to cold and damp houses are low income households with no paid workers including ... unemployed retired single parents</mediating_factors>
+    <process_used>n/a</process_used>
+    <reference_no>132,133,99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="129">
+    <aspect_of_health>asthma</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Burr et al ref:134 in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>associated with presence of mould</process_used>
+    <reference_no>134,99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="130">
+    <aspect_of_health>respiratory diseases</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Hunt in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>allergenic and/or toxic effects of fungal mould or other organisms</process_used>
+    <reference_no>99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="131">
+    <aspect_of_health>emotional strain</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Hunt in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>increased emotional strain on exigencies of living under already adverse conditions</process_used>
+    <reference_no>99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="132">
+    <aspect_of_health>illness</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Hunt in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>indirectly, alone or in combination with other factors</process_used>
+    <reference_no>99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="133">
+    <aspect_of_health>child development</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Hunt in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>process which occurs over the long term</process_used>
+    <reference_no>99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="134">
+    <aspect_of_health>asthma, rhinitis, alveolitis</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>mould spores ... some evidence that infections caused by certain kinds of bacteria and viruses which thrive in damp conditions</process_used>
+    <reference_no>99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="135">
+    <aspect_of_health>gastrointestinal upsets, aches, pains, fatigue,</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Martin et al ref:135 in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>more likely to affect children</mediating_factors>
+    <process_used>damp and mouldy houses</process_used>
+    <reference_no>135,99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="136">
+    <aspect_of_health>ill health</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Platt et al ref:136 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>a dose-response relationship with the number of symptoms increasing with the number of housing problems relationship independent of smoking and socioeconomic factors</process_used>
+    <reference_no>136,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="137">
+    <aspect_of_health>wheezing, coughs, sickness absence, chest problems</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Strachan and Elton ref:137 Strachan ref:138 in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>significantly more common in damp and mouldy housing, independent of parental smoking, coal fires and other variables</process_used>
+    <reference_no>137,138,99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="138">
+    <aspect_of_health>wheezing, chesty coughs</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Strachan ref:139 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>children</mediating_factors>
+    <process_used>twice as likely to be suffered by children living in homes affected by damp and mould as by those who slept in dry rooms</process_used>
+    <reference_no>139,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="139">
+    <aspect_of_health>respiratory complaint</aspect_of_health>
+    <aspect_of_regeneration>housing, damp, mould, cold</aspect_of_regeneration>
+    <author>Todd ref:140 in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>n/a</process_used>
+    <reference_no>140,99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="140">
+    <aspect_of_health>accidents</aspect_of_health>
+    <aspect_of_regeneration>housing design</aspect_of_regeneration>
+    <author>CAPT ref:141 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>n/a</process_used>
+    <reference_no>141,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="141">
+    <aspect_of_health>morbidity</aspect_of_health>
+    <aspect_of_regeneration>housing design</aspect_of_regeneration>
+    <author>Constantinides ref:142 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>households in disadvantaged circumstances are likely to be worst affected by accidents</process_used>
+    <reference_no>142,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="142">
+    <aspect_of_health>mortality</aspect_of_health>
+    <aspect_of_regeneration>housing design</aspect_of_regeneration>
+    <author>DTI ref:143 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>40% of fatal accidents in the UK happen in the home home-related accidents are the most common cause of death in children aged over 1 year almost half of all accidents to children are associated with architectural features in and around the home</process_used>
+    <reference_no>143,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="143">
+    <aspect_of_health>stress, disease, infestation</aspect_of_health>
+    <aspect_of_regeneration>housing design</aspect_of_regeneration>
+    <author>Freeman ref:144 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>industrialised building techniques, poor workmanship and poor materials make buildings andndash; especially system-built tower blocks of 1960s and 1970s - prone to cockroach infestation</mediating_factors>
+    <process_used>germs transferred from house to house allergy - from bodies of dead cockroaches harmful pesticides used to kill cockroaches stress due to infestation</process_used>
+    <reference_no>144,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="144">
+    <aspect_of_health>accidents</aspect_of_health>
+    <aspect_of_regeneration>housing design</aspect_of_regeneration>
+    <author>in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>Coroners records for England and Wales show that between 1973 and 1976 children above the first floor were 57 times more likely to be killed by falling than children on the first and ground floors</process_used>
+    <reference_no>121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="145">
+    <aspect_of_health>mortality</aspect_of_health>
+    <aspect_of_regeneration>housing design</aspect_of_regeneration>
+    <author>Roberts and Power ref:7 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>increase in death rates in social class IV and V related to the increase in the number of homeless families and their placement in temporary accommodation over the same period</mediating_factors>
+    <process_used>most deaths were caused by residential fires associated with poor quality social housing and temporary accommodation</process_used>
+    <reference_no>7,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="146">
+    <aspect_of_health>accidents</aspect_of_health>
+    <aspect_of_regeneration>neighbourhood</aspect_of_regeneration>
+    <author>Reading et al ref:145</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>preschool accidental injuries are influenced by factors operating at both the level of individual families and between areas home safety measures, preventive education, and advice on parenting and behaviour management have contributed to reducing accident</mediating_factors>
+    <process_used>accidental injury rates were much higher in deprived urban neighbourhoods than in affluent areas much of the variation in rates, for all accidents, was accounted for by factors at the individual level ie ... male sex ... young maternal age ... number of e</process_used>
+    <reference_no>145</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="147">
+    <aspect_of_health>mental illness</aspect_of_health>
+    <aspect_of_regeneration>housing</aspect_of_regeneration>
+    <author>Gabe and Williams ref:102 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>despite strong evidence of an association it is difficult to say whether the link is causal ie other factors may cause the stress rather than the housing conditions alone eg poor housing conditions are more prevalent among groups with low income (Hills 19</mediating_factors>
+    <process_used>women spend more time in the home overcrowding neighbourhood noise poor structural conditions</process_used>
+    <reference_no>102,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="148">
+    <aspect_of_health>mental illness</aspect_of_health>
+    <aspect_of_regeneration>housing</aspect_of_regeneration>
+    <author>Hunt ref:146 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>n/a</process_used>
+    <reference_no>146,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="149">
+    <aspect_of_health>psychosocial health</aspect_of_health>
+    <aspect_of_regeneration>housing tenure, employment</aspect_of_regeneration>
+    <author>Walker ref:147</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>unemployed are concentrated in social renting which affects welfare benefits at household and state levels, management of housing stock and policies to reduce housing-related exclusion households with a stake in the job market can relocate to find employm</mediating_factors>
+    <process_used>unemployed households may be trapped in welfare dependence ... unable to command a wage high enough to raise income above benefit levels changes in the labour market have a significant impact upon housing and the capacity of consumers to maintain their ho</process_used>
+    <reference_no>147</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="150">
+    <aspect_of_health>mortality</aspect_of_health>
+    <aspect_of_regeneration>housing tenure</aspect_of_regeneration>
+    <author>Brennan and Lancashire ref:148 in Ambrose et al ref:99</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>n/a</process_used>
+    <reference_no>148,99</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="151">
+    <aspect_of_health>mortality rates</aspect_of_health>
+    <aspect_of_regeneration>housing tenure</aspect_of_regeneration>
+    <author>Goldblatt ref:123 in Best ref:121</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>may not be the council housing that has increased the mortality rates</mediating_factors>
+    <process_used>people living in council housing are more likely to die before the age of 65 than owner occupiers</process_used>
+    <reference_no>123,121</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="152">
+    <aspect_of_health>mental health, physical health, depression, stress</aspect_of_health>
+    <aspect_of_regeneration>repossession</aspect_of_regeneration>
+    <author>Nettleton and Burrows ref:149</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>narratives of 44 adults and 10 children from a sample of 30 households who had experienced mortgage repossession</process_used>
+    <reference_no>149</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="153">
+    <aspect_of_health>crime</aspect_of_health>
+    <aspect_of_regeneration>repossession</aspect_of_regeneration>
+    <author>Nettleton et al ref:150</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>mortgage companies often pursue the woman because she is easier to contact women more likely to become lone parents making it difficult to take on paid work because of parenting responsibilities and costs of child care</mediating_factors>
+    <process_used>often as a result of breakdown of relationship this is a pathway to long-term poverty and substantial debt</process_used>
+    <reference_no>150</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="154">
+    <aspect_of_health>fear of crime, psychological health</aspect_of_health>
+    <aspect_of_regeneration>violence</aspect_of_regeneration>
+    <author>Morse and Calsyn ref:151 in Bardsley et al ref:100</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>homeless people can be both criminal and criminalised</mediating_factors>
+    <process_used>people engaging in criminal activity often do so after a period of homelessness</process_used>
+    <reference_no>151,100</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="155">
+    <aspect_of_health>fear of crime</aspect_of_health>
+    <aspect_of_regeneration>violence</aspect_of_regeneration>
+    <author>Acheson Report Mirlees-Black (British Crime Survey) in Keithley and Robinson ref:152</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>n/a</process_used>
+    <reference_no>152</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="156">
+    <aspect_of_health>fear of crime</aspect_of_health>
+    <aspect_of_regeneration>violence</aspect_of_regeneration>
+    <author>Mirlees-Black (British Crime Survey) in Keithley and Robinson ref:152</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>households in low-income, multi-ethnic areas are at the greatest risk of violence</process_used>
+    <reference_no>152</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="157">
+    <aspect_of_health>fear of crime</aspect_of_health>
+    <aspect_of_regeneration>violence</aspect_of_regeneration>
+    <author>Shepherd in Keithley and Robinson ref:152</author>
+    <health_outcomes></health_outcomes>
+    <mediating_factors>n/a</mediating_factors>
+    <process_used>violent crime is substantially under-reported little is known about the impacts on health or the aetiology of violence</process_used>
+    <reference_no>152</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="162">
+    <aspect_of_health>well being</aspect_of_health>
+    <aspect_of_regeneration>social capital, co-operation, co-ordination, social trust, civic trust, networks</aspect_of_regeneration>
+    <author>Baum ref:165</author>
+    <conclusion>need an understanding of the ... complexity of social capital relation of social capital with economic development way in which macro-economic policies shape quality of social relations between people, determine levels of trust people have in each other and in their civic institutions and govern the extent to which people perceive their societies to be fair way in which social factors affect economic development way in which the synergy between economic development and social factors affects health</conclusion>
+    <field_4>broad agreement in literature that social capital leads to co-operation and co-ordination for mutual benefit and concerns levels of social and civic trust presence of both thick and thin, or embedded and autonomous networks</field_4>
+    <key_issues_rel_he>there is a synergy between economic development and social factors which affects health but this is not well understood</key_issues_rel_he>
+    <measure_social_cap>difficult to use a measure which adequately captures the subtlety of social interaction</measure_social_cap>
+    <reference_no>165.00</reference_no>
+    <study_details>editorial</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="163">
+    <aspect_of_health>mortality rate, health behaviours, smoking alcohol consumption, physical activity, obesity</aspect_of_health>
+    <aspect_of_regeneration>social capital, social ties, community ties, social contacts, social networks</aspect_of_regeneration>
+    <author>Berkman and Syme ref:166</author>
+    <conclusion>The study indicates that social circumstances have pervasive health consequences social factors can influence host resistance and affect vulnerability to disease The study showed that: the absence of any form of social contact led to a significant increase in risk of death during the follow-up period social and community ties protected against a variety of diseases but the mechanism by which social networks influence health status remains unclear 3 possible pathways by which social isolation leads to ill health: influence the use of preventive health practices influence an individual's psycho-social response to social isolation which may pre-dispose that individual to suicide or risk taking behaviour leads to physiological changes in the body which affects the individual's susceptibility to infection</conclusion>
+    <field_4>Social and community ties, and the degree of social contacts, and social networks of individuals.</field_4>
+    <key_issues_rel_he>Mortality rates were lower in respondents who were: married, had frequent contacts with friends and relatives, members of a church, and other social/community organisations The Social Network Index revealed a consistent pattern of increasing mortality rates associated with each decrease in social connections. Association between social network index and mortality found to be independent of: self reported physical health status, year of death socio-economic status health behaviours and status eg ... smoking, alcohol consumption, physical activity, obesity, low utilisation of preventative health services and a cumulative index of health practices</key_issues_rel_he>
+    <measure_social_cap>4 sources of social contacts looked at marital status contact with close friends and relatives church membership informal and formal group membership A Social Network Index was created to summarise the effect of increasing social isolation on mortality. The Index considers the number of social ties and their relative importance (i.e. the cumulative effects of social ties and relationship)</measure_social_cap>
+    <reference_no>166.00</reference_no>
+    <study_details>A study which investigated a range of social ties and networks in relation to mortality from all causes in a large sample of a general population. The data used for the study came from a 1965 survey collected by the Human Population Laboratory (Department of Health, California State)</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="164">
+    <aspect_of_health>health status, disease, health risks, health service usage</aspect_of_health>
+    <aspect_of_regeneration>social capital, social integration, civic involvement, religiosity</aspect_of_regeneration>
+    <author>Burdine et al ref:167</author>
+    <conclusion>social capital may be more closely related to mental health than to physical health</conclusion>
+    <field_4>the stock of relationship quality that exists among a group of individuals which: motivates their awareness of membership in the group, motivates their interest in acting in the group's best interest and facilitates their ability to do so</field_4>
+    <key_issues_rel_he>health related data included functional health status (SF-12) disease prevalence demographics social determinants of health community issues health risks and preventive behaviour health and human services use insurance data access to care rank order of MCS and social capital were identical in all eight sites rank order for PCS matched with social capital in only one out of eight sites</key_issues_rel_he>
+    <measure_social_cap>social capital measured with social integration civic involvement religiosity</measure_social_cap>
+    <reference_no>167.00</reference_no>
+    <study_details>data collected at eight sites in USA 5,823 replies from random dial telephone survey and postal survey (response rates ranged from 36% to 78%) physical (PCS) and mental (MCS) component scores from the SF-12 calculated for each site and compared with social capital scores</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="165">
+    <aspect_of_health>health</aspect_of_health>
+    <aspect_of_regeneration>social capital, local identity, trust, community cohesion, civic engagement, reciprocity</aspect_of_regeneration>
+    <author>Campbell et al ref:168</author>
+    <conclusion>people's stocks of social capital reside in a range of local and non-local networks and associations three type of networks ... informal and interpersonal ... account for majority of networks voluntary associations ... few in number and rarely linked to state-provided services community-linked activist groupings and initiatives ... important in people's accounts of community life ... virtually no reference to these groupings in low-health ward provision of community facilities does not constitute or develop social capital ... need greater participation and representation in growth and development of facilities community cohesion, trust and local identity need to be understood in context of complex, fragmented and rapidly changing community life social capital is not a homogenous resource which is created, sustained and accessed equally by all members of a community ... strong influence of socioeconomic status on community networks and relationships</conclusion>
+    <field_4>Putnam's definition ref:154</field_4>
+    <key_issues_rel_he>reciprocal help and support did not serve to distinguish high- and low-health communities trust, perceived citizen-power and civic engagement were higher in high-health community dimensions of local identity and local facilities were stronger in low-health community broader range of networks might be associated with better-health outcomes</key_issues_rel_he>
+    <measure_social_cap>qualitative analysis of interview and focus group transcripts</measure_social_cap>
+    <reference_no>168.00</reference_no>
+    <study_details>two wards, low- and high-health, in Luton, UK 37 in-depth open-ended interviews focus groups with 48 people</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="166">
+    <aspect_of_health>health</aspect_of_health>
+    <aspect_of_regeneration>social capital, civic trust, reciprocity, membership</aspect_of_regeneration>
+    <author>Kawachi et al ref:169</author>
+    <conclusion>Mechanism linking social capital to health might be different to those that link social network to individual health. There is an important need to distinguish between the contextual effects of living in an area depleted with social capital and any compositional effects of social capital. There is an even greater need to identify the mechanism by which social capital may exert a contextual effect on individual health.  3 potential pathways social capital might influence individual health at neighbourhood level:  influence on health behaviours of residents (through a) diffusion of health information; b) increase likelihood of healthy behaviours being adopted; c) exerting social control over unhealthy behaviours andndash; collective efficacy.. influence health by increasing access to local services and amenities influence individual health through psychosocial process andndash; e.g. provision of affective support, or as source of mutual esteem and self respect.</conclusion>
+    <field_4>Putnam's concept of social capital / social cohesion ref:154:- levels of civic trust collective perception of reciprocity membership in variety of voluntary organisations</field_4>
+    <key_issues_rel_he>States with low social capital had higher proportions of residents who reported their health to be only fair or poor. Ecological level correlation coefficient between ... social mistrust and percentage of residents in fair/poor health was r=0.71 (p&gt;.0001) ... perception of reciprocity and fair/poor health r=andndash;0.66 (p&gt;.0001) Residing in a state with lowest level of social capital was associated with a 45% to 73% increased odds of fair/poor health. Living in areas with lowest level of trust was associated with an odds ratio for fair/poor health of 1.4. Largest effect of social capital on health observed in individuals with lowest level of income.</key_issues_rel_he>
+    <measure_social_cap>Extent of civic trust and perception of reciprocity were respectively assessed by responses to the following General Social Survey questions: 'Generally speaking, would you say that most people can be trusted?' 'Would you say that most of the time people try to be helpful, or are they mostly looking out for themselves?' Responses to questions about membership to voluntary organisations were aggregated at state level to provide an estimate per capita membership in each state. The states were grouped a priori into 3 levels of social capital andndash; high, medium or low.</measure_social_cap>
+    <reference_no>169.00</reference_no>
+    <study_details>The study presents analysis determining whether a contextual effect of social capital could be demonstrated forindividual self rated health, after adjusting for individual household income, health behaviour, educational attainment and other covariates.  The socio-demographic data used for analysis came from the Behavioural Risk Factor Surveillance System (BRFSS). Indicators for social capital aggregated at state level were obtained from the General Social Survey</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="167">
+    <aspect_of_health>health behaviours, smoking, alcohol consumption, serum cholestrol, physical health, blood pressure, cardiovascular disease, accidents, suicides</aspect_of_health>
+    <aspect_of_regeneration>social capital, social networks, social relationships</aspect_of_regeneration>
+    <author>Kawachi et al ref:170</author>
+    <conclusion>Social networks reduce total mortality by lowering deaths from CVD, accidents and suicides. 4 potential pathways proposed through which social relationships affect health: provision of instrumental support (finance or service in kind) provision of information and advice provision of emotional support influence on host resistance and disease susceptibility</conclusion>
+    <field_4>The level of 'social networks' or 'social relationships' a person has, and a measure of personal interactions with other individuals and within the community.</field_4>
+    <key_issues_rel_he>Socially isolated men were: more likely to smoke, drink more less likely to go for health check ups related to blood pressure, serum cholesterol, and physical examinations. at risk of cardiovascular disease (CVD) , accidents and suicides. Being unmarried was the strongest predictor of CVD mortality</key_issues_rel_he>
+    <measure_social_cap>the Berkman-Syme social network index measures four types of social connection: marital status sociability church group membership membership to other community organisation Reponses categorised into low networks; medium-high networks; high networks</measure_social_cap>
+    <reference_no>170.00</reference_no>
+    <study_details>A 4 year follow-up investigating the association between social relationship and health</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="168">
+    <aspect_of_health>mortality rates, cardiovascular disease, malignant neoplasm, cerebrovascular disease, injury, infant mortality</aspect_of_health>
+    <aspect_of_regeneration>social capital, civic engagement, reciprocity, trust</aspect_of_regeneration>
+    <author>Kawachi et al ref:171</author>
+    <conclusion>the size of income inequality is powerfully and negatively related to the level of investment in social capital a lack of investment in social capital could be one of the pathways through which income inequality exerts its effects on population level mortality growing gap between rich and poor affects social organisation of communities and the resulting damage to the social fabric may have profound implications for public health.</conclusion>
+    <field_4>Putnam's concept of social capital/ social cohesion ref:154:- levels of civic engagement norms of reciprocity levels of trust</field_4>
+    <key_issues_rel_he>each indicator of social capital showed a strong inverse correlation with age-adjusted all-cause mortality rates (r=0.79, p&gt;0.0001) a 1% increment in the level of mistrust was associated with an increase in total mortality rate of 4.5 deaths per 100,000 (p&gt;0.0001) variations in the level of trust explained 58% of the variance in total mortality across states low levels of trust were associated with higher rates of major causes of death, including CVD, malignant neoplasm, cerebrovascular disease, unintentional injury and infant mortality level of group membership was a predictor of CHD, malignant neoplasm and infant mortality</key_issues_rel_he>
+    <measure_social_cap>A weighted response to 2 items from the General Social Survey a per capita density of membership in voluntary groups andndash; eg church, sports, hobby, fraternal organisations level of perceived social trust Individual answers were aggregated to the state level to create a social capital indicator per capita Indicators of social capital were strongly correlated with each other (all p&gt;0.05) civic mistrust with group membership (r=-0.65) mistrust with perceived lack of reciprocity (r=0.81) group membership with lack of reciprocity (r=-0.54)</measure_social_cap>
+    <reference_no>171.00</reference_no>
+    <study_details>A cross-sectional ecological study based on General Social Survey data from 39 American states, investigating income inequality, social cohesion, and mortality.</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="169">
+    <aspect_of_health>health, happiness</aspect_of_health>
+    <aspect_of_regeneration>social capital, domestic situation</aspect_of_regeneration>
+    <author>Leeder and Dominello ref:172</author>
+    <conclusion>social capital needs a lot of development before it is a practical matter for policy development social capital is an ambiguous concept ... it provokes thought about social interaction and trust however it is flavoured by an economic essence and has a potential to be exploited ... to push already laden individuals into assuming more responsibilities</conclusion>
+    <field_4>social capital is defined by the norms of the dominant group in society how should social capital be defined to be meaningful to those who live in alternative contexts ... who live alone by choice, who are trapped in unhappy domestic situations, or whose definitions of intimacy have nothing to do with families</field_4>
+    <key_issues_rel_he>is social capital practically applicable in pursuit of health gain? can it fully capture the subtle interplay of individuals and society which is so critical to health and happiness</key_issues_rel_he>
+    <measure_social_cap>n/a</measure_social_cap>
+    <reference_no>172.00</reference_no>
+    <study_details>critical review of social capital</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="170">
+    <aspect_of_health>health, well being, self-esteem</aspect_of_health>
+    <aspect_of_regeneration>human capital, cultural capital</aspect_of_regeneration>
+    <author>Morrow ref:155</author>
+    <conclusion>need to allow for multiplicity of social life and not prescribe ways of living while parental conflict has a deleterious effect on children's well-being there are benefits from living in a complex family form: non-nuclear family structures may expand the potential for sources of social support decision to drop out or turn to crime might be reasonable and logical in areas of socio-economic disadvantage with little effective reward for school achievement dissonance of messages from school eg ... standards of cleanliness may be lower at school than at home ... poor school food ... teachers driving and posing a threat to children</conclusion>
+    <field_4>a set of processes and practices that are integral to the acquisition of other forms of capital eg human capital and cultural capital</field_4>
+    <key_issues_rel_he>immediate health impacts for children are difficult to detect but they obviously engage in activities that have important implications for their health and well-being ref:173 context is critical to understanding health behaviours ... most behaviour is influenced as much, or more, by the routine organisation of everyday settings and activities as by the personal decisions of individuals children's self-esteem may be influenced by current climate of test results, grades and rewards for achievement ... school may aim to enhance 'institutional cultural capital' and have to neglect emotional well-being</key_issues_rel_he>
+    <measure_social_cap>social capital is not measurable ... it applies in different ways in different contexts it needs to be rooted in context eg social, cultural, historical, economic children are not passive burdens on adults time but actively generate, draw on, or negotiate their own social capital</measure_social_cap>
+    <reference_no>155.00</reference_no>
+    <study_details>critical review of social capital in relation to children and young people</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="171">
+    <aspect_of_health>health</aspect_of_health>
+    <aspect_of_regeneration>social capital, social support, social networks</aspect_of_regeneration>
+    <author>O'Reilly and Thomas , 1989 Role of social support network in maintenance of improved cardiovascular health status.</author>
+    <conclusion>support networks and social and personal factors appear to be related to behaviours which maintain and improve health status ... need to refine the questions which examine these phenomena the results should not be over-emphasised ... the significant variables accounted for only a small amount of variance between maintainers and non-maintainers need to increase our understanding of the impact of the social environment on health ... this will benefit from specifying individual components of social support and social networks to enable people to change their health status it is important to identify when behavioural (supportive) or structural (network) interventions are most appropriate</conclusion>
+    <field_4>Social support and social networks social support viewed as an 'interactional process' where particular actions or behaviour directed at an individual have a positive effect on the individual's social, psychological and physical well being General support questionnaire focused on behaviours relating to various types of support instrumental, emotional, appraisal, information, advice and confidante</field_4>
+    <key_issues_rel_he>maintainers received significantly more support than non-maintainers support which was provided specifically for risk reduction efforts included ... information/advice, appraisal, emotional support, availability maintainers had ... larger support networks, their support network was more dense and family oriented and more satisfaction with the support they received wives and other relatives accounted for over 80% of the risk related support given to maintainers, compared to 74% of support to non-maintainers</key_issues_rel_he>
+    <measure_social_cap>assessed type of support available with following questions ... are you ... able to borrow tool/equipment to finish a job around the house? ... (instrumental support) able to ask some to take care of the house? ... (instrumental support) able to seek advice when making important decision? ... (advice/opinion support) able to confide in others when worried or concerned about personal matters? ... (confidante support) shown concern when you are going through a difficult time? ... (emotional support) given encouragement in doing difficult activities? ... (encouragement/appraisal support) given help/encouragement in managing personal health problems? ... (emotional/encouragement support) also assessed specific dimensions of social network ... eg size (number of persons in close network) content gender distance duration frequency density</measure_social_cap>
+    <reference_no></reference_no>
+    <study_details>a retrospective, cross-sectional study over 3 years which looks at the relationship of social support and social network and maintained improvements in CVD risk status. the study was part of a re-screening programme of a population of middle-aged men 'maintainers' (those who equalled or lowered their risk status 3 years after the MRFI trial, after adjusting for age) were compared with 'non-maintainers'</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="172">
+    <aspect_of_health>well being, depression</aspect_of_health>
+    <aspect_of_regeneration>social capital, communities</aspect_of_regeneration>
+    <author>Runyan et al ref:174</author>
+    <conclusion>social capital may have an impact on children's well-being as early as the pre-school years ... the parents' social capital is conferred on the children</conclusion>
+    <field_4>benefits that accrue from social relationships within communities and families</field_4>
+    <key_issues_rel_he>authors report that children 'doing well' had higher scores on the social capital index family income, but not maternal education, significantly associated (p=0.4) with child wellbeing ... each $5,000 increment associated with a 12% increase in the odds of doing well children whose maternal caregiver experienced depression had increased chance of 'not doing well' (p=0.6) out-of-home placement significantly associated with 'not doing well' (p=0.2)</key_issues_rel_he>
+    <measure_social_cap>scoial capital index was created by assigning one point to each of the following indicators two parents or parent-figures in the home social support of the maternal caregiver no more than two children in the family neighbourhood support regular church attendance</measure_social_cap>
+    <reference_no>174.00</reference_no>
+    <study_details>To what extent do variables which are connected with social capital protect children's development from negative impact? cross sectional case-control analysis of young children 'doing well' and 'not doing well' at baseline in 4 co-ordinated longitudinal studies 667 two to five year old children (mean age 4.4 years) and their maternal caregivers who are participants in the Longitudinal Studies of Child Abuse and Neglect Consortium (LONGSCAN)</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="173">
+    <aspect_of_health>mortality, life expectancy, mortality, heart disease, physical health</aspect_of_health>
+    <aspect_of_regeneration>social capital, networks, trust</aspect_of_regeneration>
+    <author>Siahpush and Singh ref:175</author>
+    <conclusion>investigations concerning relationship between social integration (social capital) and health needs to address the type and level of social integration conducive to better health 'People living alone' is an important indicator of social integration and reflects the degree of social isolation and atomisation of individuals in the community ... this was the only indicator of social integration that was associated with all the mortality measures Suicide rates are associated with the largest number of integration indicators Unexpected results related to unionisation appears contrary to those previously reported ref:171 which suggest that it may be unwise to lump all group memberships together regardless of type and assume unionisation always has positive health effects</conclusion>
+    <field_4>Putnam's definition ref:154 andndash; social capital as the 'features of social organisation such as networks, norms and trust, that facilitate co-ordination and co-operation for mutual benefit'</field_4>
+    <key_issues_rel_he>higher levels of social integration are associated with lower mortality rates and higher life expectancy % of people living alone significantly correlated with mortality from heart disease, cancer, stroke, respiratory diseases, suicide, and all causes combined divorce rate significantly correlated with mortality from traffic accidents and suicide unemployment rate significantly correlated with mortality from heart disease, stroke, respiratory disease, suicide, all causes combined, and with male life expectancy proportion of discouraged job seekers significantly correlated with mortality from heart disease, respiratory disease, traffic accidents, suicide, all causes combined, and with male life expectancy higher levels of unionisation significantly associated with higher levels of mortality from heart disease, stroke, respiratory diseases, suicide, all causes combined, and with lower male and female life expectancy</key_issues_rel_he>
+    <measure_social_cap>Measure of social integration: % of persons over 15yrs old and older who lived alone divorce rate of number of divorces during the calendar year, per 1,000 estimated residents unemployment rate ratio of the number of discouraged job seekers to total number of people in labour force (not counted in unemployment rates and represent a social category that has lost confidence in the integrative capacities of society and economy union membership</measure_social_cap>
+    <reference_no>175.00</reference_no>
+    <study_details>investigation of the relationship between social integration (as a component of social capital) and mortality at an aggregate level of analysis uses ecological data from several Australian Bureau of Statistics unit of analysis is State- (or Territory) -year, covering 6 states and 2 Territory from 1990-96</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="174">
+    <aspect_of_health>health, cardiovascular disease, accidents, suicide, anxiety, depression</aspect_of_health>
+    <aspect_of_regeneration>social support</aspect_of_regeneration>
+    <author>Stansfeld ref:156</author>
+    <conclusion>Interventions which weaken social support may damage health. In communities where levels of perceived social support have improved over time, mental health has also improved in the population.</conclusion>
+    <field_4>social support</field_4>
+    <key_issues_rel_he>Mechanisms Social support may protect health by buffering against the effects of life events which may be damaging to health. Also there may be direct effects in promoting sense of control of one's life and self worth. Social support may have physiological effects through the hormonal system, on the body's response to stress and functioning of the immune system. Health outcomes: Social support which reduces social isolation is associated with reduced levels of mortality from cardiovascular disease, accidents, suicide. Better social support is associated with reduced risk of cardiovascular disease. People with better social support may cope with illness better and have better prognoses when ill. Better social support is beneficial to mental health; associated with lower levels of anxiety, depression. There may be gender differences in the importance for health of social support from different sources.</key_issues_rel_he>
+    <measure_social_cap>social networks, quality of social interactions</measure_social_cap>
+    <reference_no>156.00</reference_no>
+    <study_details>review of evidence from studies of social support and health</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="175">
+    <aspect_of_health>health</aspect_of_health>
+    <aspect_of_regeneration>social capital, trust, commitment, identity, social activities, civic participation</aspect_of_regeneration>
+    <author>Veenstra ref:176</author>
+    <conclusion>there is little evidence for any overall effect of social capital on health in Saskatchewan relationships between indices of social capital and self-rated health status are not strong the only strong relationships found were those related to human capital ... education and income ... which were particularly strong predictors of health in the elderly population, and, to a lesser extent in the middle-aged</conclusion>
+    <field_4>social-psychological dimension ... trust commitment and identity action dimensions ... engagement in social activities and civic participation</field_4>
+    <key_issues_rel_he>Related to health associating with work-mates was positively related to health overall, but after controlling for effect of human capital became insignificant. willingness to turn to work-mates in time of trouble was related to health overall commitment to one's personal happiness Related to health of older people attendance to religious services was more important for predicting health status in older people participation in clubs and association was important for predicting health status among older people (p=0.009), but was not significant after controlling for human capital. education was found to be significantly related to health amongst middle-aged respondent (aged 39-65). For elder respondent (aged &gt;65) both education and income were significantly related to health. Unrelated to health frequency of socialisation with family members and friends; belonging to small group that provide care and support social involvement with neighbours, clubs and other organisations, volunteering trust indices were not found to be significantly related to self-rated health status. civic participation index not related to health</key_issues_rel_he>
+    <measure_social_cap>Indices created for: overall civic participation eg ... local newspaper readership, writing to local newspaper, watching local TV news, serving board of community organisation, donating blood, contact with local election official, voting in election dimensions of trust ... in government, in neighbours, in people from respondent's community, in people from respondent's geographical locality and in people in general</measure_social_cap>
+    <reference_no>176.00</reference_no>
+    <study_details>This study uses cross-sectional survey data from Saskatchewan, Canada investigates individual level elements of social capital in both 'social-psychological' and 'action' dimensions' investigates how these relate to self-rated health status before and after controlling for human capital human capital is equated with socio-economic status and is measured by income and education</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="176">
+    <aspect_of_health>health</aspect_of_health>
+    <aspect_of_regeneration>social capital, local relationships, sense of community</aspect_of_regeneration>
+    <author>Cattell and Evans ref:177</author>
+    <conclusion>Opportunities for forming supportive social networks can be encouraged by appropriate polices and facilities eg ... foster established networks and include newcomers ... associations which actively encourage newcomers to get involved are important ... provide a range of meeting places ... close attention to equitable distribution of resources ... reduce tension between different ages or other groups  Community involvement and effective participation require opportunities and social networks eg well run Tenant Management Co-op  Thriving localised, regenerated community life needs appropriate facilities and meeting places  Social capital has a material base ... neighbourhood's resources are important for building and sustaining networks, developing trust and encouraging participation ... resources impact upon residential continuity, on interaction and socialising with fellow residents and workers ... help to facilitate identity and pride in the area and can have a direct influence on some forms of anti-social behaviour</conclusion>
+    <field_4>friendship supportive local relationships sense of community</field_4>
+    <key_issues_rel_he>localised social networks strong sense of community seems to develop with age but attachment to the neighbourhood is not restricted to elderly age groups without social facilities there is no regeneration</key_issues_rel_he>
+    <measure_social_cap>residents defined a good neighbourhood as including neighbourliness safety involvement community integration caring attitudes having fun also ... good and equitably distributed resources  two views of cohesion ... interaction of similar persons .... embracing inter-group co-operation and respect for difference</measure_social_cap>
+    <reference_no>177.00</reference_no>
+    <study_details>qualitative cross-sectional study of social capital and social networks on two East London estates</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="177">
+    <aspect_of_health>exclusion</aspect_of_health>
+    <aspect_of_regeneration>social capital, interpersonal relationships, attitudes, beliefs, social relations, networks, crime, violence,</aspect_of_regeneration>
+    <author>Moser and McIlwaine ref:178</author>
+    <conclusion>n/a</conclusion>
+    <field_4>authors point out important distinctions structural social capital ref:179 interpersonal relationships in formal or informal organizations or networks cognitive social capital ref:179 normative attitudes and beliefs eg trust and fear  horizontal social capital ref:154 restricted to social relations in informal reciprocity networks hierarchical social capital ref:180 hierarchical and formalized regional and national level institutions in the market place, the political system and civil society  productive social capital154;181 emphasis on positive outcomes of social capital which include increased collective action with benefits in terms of education, income or securing jobs social capital is both a 'public good' and 'for the public good' generates favourable relationships and benefits perverse social capital182;183 associated with negative outcomes 'sociability cuts both ways' ref:184</field_4>
+    <key_issues_rel_he>high levels of productive social capital may reduce violent crimes ref:185 perverse social capital may create negative processes eg 'exclusion of outsiders, excess claims on group members, restrictions on individual freedoms and downward levelling of norms' ref:184</key_issues_rel_he>
+    <measure_social_cap>structural social capital nature of social institutions at community level cognitive social capital interpersonal networks of trust and reciprocity that exist among neighbours, friends and relatives at the community level</measure_social_cap>
+    <reference_no>178.00</reference_no>
+    <study_details>qualitative study of social capital in Colombia and Guatemala</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="178">
+    <aspect_of_health>test 3</aspect_of_health>
+    <aspect_of_regeneration>sub test 1</aspect_of_regeneration>
+    <author>sub test 2</author>
+    <health_outcome_effects>16</health_outcome_effects>
+    <mediating_factors>717</mediating_factors>
+    <notes>18</notes>
+    <process>19</process>
+    <reference_no>20</reference_no>
+    <study_details>21</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="179">
+    <aspect_of_health>accidents</aspect_of_health>
+    <aspect_of_regeneration>calliope</aspect_of_regeneration>
+    <author>Riley et al.</author>
+    <health_outcome_effects>eyesight impared</health_outcome_effects>
+    <mediating_factors>none</mediating_factors>
+    <notes>none</notes>
+    <process>watching telly</process>
+    <reference_no>170</reference_no>
+    <study_details>the magic roundabout</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="70">
+    <aspect_of_health></aspect_of_health>
+    <aspect_of_regeneration>human capital, skills</aspect_of_regeneration>
+    <author>Chatrick and Maclagan ref:77 Dolton et al ref:78 Lindley ref:79 Maclagan ref:80 Rolfe et al ref:81 Dennehy et al ref:82</author>
+    <causal_pathways>mixed evaluations about schemes which aim to increase skill levels of young people conclusions range from finding that the successes are limited to success ie training increases likelihood of a 'good job' training schemes may fail the most disadvantaged</causal_pathways>
+    <outcomes_rel_unemployment></outcomes_rel_unemployment>
+    <reference_no>77,78,79,80</reference_no>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="180">
+    <aspect_of_health>nasal, retentive, calliope music</aspect_of_health>
+    <aspect_of_regeneration>calliope music, ungulates</aspect_of_regeneration>
+    <author>Bush, G</author>
+    <health_outcome_effects></health_outcome_effects>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process></process>
+    <reference_no>108</reference_no>
+    <study_details>here</study_details>
+  </heTrafficTransReview>
+  <heTrafficTransReview key="181">
+    <aspect_of_health>accidents</aspect_of_health>
+    <aspect_of_regeneration></aspect_of_regeneration>
+    <author></author>
+    <health_outcome_effects></health_outcome_effects>
+    <mediating_factors></mediating_factors>
+    <notes></notes>
+    <process></process>
+    <reference_no></reference_no>
+    <study_details></study_details>
+  </heTrafficTransReview>
+</records>

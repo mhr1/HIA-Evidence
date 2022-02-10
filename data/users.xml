@@ -1,0 +1,9 @@
+<accounts>
+  <user name="user01" password="magic" />
+  <user name="user02" password="wizard" />
+  <user name="user03" password="clever" />
+  <user name="user04" password="smart" />
+  <user name="user05" password="mercedes" />
+  <user name="sarah" password="haras" />
+
+</accounts>
